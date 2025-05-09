@@ -1,4 +1,3 @@
-
 import pandas as pd
 import streamlit as st
 from pedidos import processar_pedidos, obter_coordenadas
@@ -384,7 +383,8 @@ def show():
                 label="Exportar anomalias para CSV",
                 data=anomalias.to_csv(index=False).encode('utf-8'),
                 file_name=f"anomalias_{pd.Timestamp.now().strftime('%Y%m%d_%H%M%S')}.csv",
-                mime="text/csv"
+                mime="text/csv",
+                label_visibility="hidden",
             )
     # Visualização de pedidos no mapa (fora do formulário)
     if 'df_filtrado' in locals() and st.button("Visualizar pedidos no mapa"):
