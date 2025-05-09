@@ -600,6 +600,10 @@ def show():
                             for veic, demanda, cap in excesso_final:
                                 st.warning(f"Veículo {veic}: {demanda:.1f} kg (limite: {cap:.1f} kg)")
 
+                        # Garante que a coluna 'Região' existe em rotas_df
+                        if 'Região' not in rotas_df.columns:
+                            rotas_df['Região'] = None
+
                         # Propaga a coluna 'Região' dos pedidos para rotas_df, se existir
                         if 'Pedido_Index_DF' in rotas_df.columns and 'Região' in pedidos_validos.columns:
                             try:
