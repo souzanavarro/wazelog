@@ -584,6 +584,8 @@ def reservar_veiculos_para_regioes(rotas_df, frota, pedidos, n_reservas=1):
     """
     if 'Região' not in pedidos.columns or rotas_df is None or rotas_df.empty:
         return rotas_df
+    if 'Região' not in rotas_df.columns:
+        raise KeyError("A coluna 'Região' não está presente no DataFrame rotas_df. Verifique os dados de entrada.")
     regioes_criticas = pedidos['Região'].value_counts().head(n_reservas).index.tolist()
     veiculos_ativos = frota['ID Veículo'] if 'ID Veículo' in frota.columns else frota['Placa']
     veiculos_ativos = veiculos_ativos.dropna().unique().tolist()
