@@ -1,0 +1,700 @@
+﻿Nº Pedido,Cód. Cliente,CNPJ,Nome Cliente,Grupo Cliente,Região,Endereço Completo,Qtde. dos Itens,Peso dos Itens,Latitude,Longitude,Janela de Descarga,Anomalia
+3738156,12194,05218394000172,Integral Alimentação Com.E Serviços Ltda,Nenhum,São Paulo,"Avenida Raimundo Pereira De Magalhaes, 14000, Pirituba, São Paulo, São Paulo",5,80.0,-23.4825331,-46.7231692,30,0
+3738443,182603,61274247000190,Mazzaferro Ind. Com. Prod. Pesca S/A,Nenhum,Diadema,"Avenida Fundibem, S/N, Jardim Casa Grande, Diadema, São Paulo",6,120.0,-23.7035411,-46.5949433,30,0
+3739097,204914,14245386000106,Fpj Restaurante Ltda,Nenhum,São Paulo,"Rua Ribeiro De Lima, 610, Bom Retiro, São Paulo, São Paulo",5,100.0,-23.5312906,-46.6386411,30,0
+3739112,210374,17233154001106,Soberana Serviços De Refeiçao E Comercio,Nenhum,Paulínia,"Avenida Pref. Jose Lozano Araujo, 1110, Centro, Paulínia, São Paulo",4,80.0,-22.76111,-47.15417,30,0
+3739121,204268,15724330000105,Bomgosto Alimentação Ltda,Nenhum,Holambra,"Rua Jaguariuna, 644, Distr.Industrial, Holambra, São Paulo",16,320.0,-22.63306,-47.05556,30,0
+3739173,203979,21010503002242,Rede Krill Supermercados Ltda,Krill,São Sebastião,"Estrada Do Cascalho, 415, Boicucanga, São Sebastião, São Paulo",3,60.0,-23.7787604,-45.6145048,30,0
+3739262,11618,61233151001156,Covabra Supermercados Ltda.,Covabra,Capivari,"Avenida Pio Xii, 900, Jardim Porto Alegre, Capivari, São Paulo",19,370.0,-22.995,-47.50778,30,0
+3739284,11619,61233151001237,Covabra Supermercados Ltda.,Covabra,Pirassununga,"Rua Siqueira Campos, 1923, Centro, Pirassununga, São Paulo",17,335.0,-21.99611,-47.42583,30,0
+3739307,11623,61233151002047,Covabra Supermercados Ltda.,Covabra,Pirassununga,"Avenida Antonio Joaquim Mendes, 471, Centro, Pirassununga, São Paulo",24,465.0,-21.99611,-47.42583,30,0
+3739332,11625,61233151001741,Covabra Supermercados Ltda.,Covabra,Leme,"Rua Rafael De Barros, 778, Centro, Leme, São Paulo",32,630.0,-22.1852455,-47.3901636,30,0
+3739333,13168,61233151002128,Covabra Supermercados Ltda.,Covabra,Limeira,"Rua Presidente Prudente, 101, Cidade Jardim, Limeira, São Paulo",16,310.0,-22.56472,-47.40167,30,0
+3739334,195790,61233151002632,Covabra Supermercados Ltda,Covabra,Jundiaí,"Avenida Doutor Adilson Rodrigues, S/N, Jd.Das Samambaias, Jundiaí, São Paulo",22,425.0,-23.18639,-46.88417,30,0
+3739348,205692,61233151002713,Covabra Supermercados Ltda,Covabra,Jundiaí,"Rua Nancy Carlota Netto, 501, Parque Residencial Eloy Chaves, Jundiaí, São Paulo",34,675.0,-23.1825474,-46.9630509,30,0
+3739349,195797,61233151003108,Covabra Supermercados Ltda,Covabra,Itupeva,"Rua Rua Jundiai, 380, Jardim Primavera, Itupeva, São Paulo",33,640.0,-23.1548565,-47.0544653,30,0
+3739350,196723,61233151003280,Covabra  Supermercados Ltda,Covabra,Vinhedo,"Avenida Benedito Storani, 347, Centro, Vinhedo, São Paulo",17,340.0,-23.0270563,-46.9783376,30,0
+3739357,205138,61233151003361,Covabra Supermercados Ltda,Covabra,Santo André,"Avenida Maria Thereza S. De Barros Camargo, 1525, Jardim Santo Andre, Limeira, São Paulo",19,375.0,-23.66389,-46.53833,30,0
+3739363,208510,61233151003876,Covabra Supermercados Ltda,Covabra,Leme,"Avenida Joaquim Lopes Aguilla, 2420, Barra Funda, Leme, São Paulo",15,300.0,-22.18556,-47.39028,30,0
+3739439,213532,19073771000307,Comercialw Com.Produtos Para Restaurante,Nenhum,Hortolândia,"Rua Perola, 350, Jardim Santa Esmeralda, Hortolândia, São Paulo",210,2026.5,-22.9074245,-47.1945135,30,0
+3739494,4367,02196351000145,Comercial  Sakagawa Ltda - Epp,Nenhum,São Paulo,"Rua Amambai, 1215, Vila Maria, São Paulo, São Paulo",14,280.0,-23.5177931,-46.5853263,30,0
+3739607,207501,28021619000878,Mix Vali Com.De Produtos Alimenticios Lt,Asp,Santo Antônio de Posse,"Rua Cynira Marques Cezar, 100, Sao Judas Tadeu, Santo Antônio De Posse, São Paulo",13,250.0,-22.6073243,-46.9072778,30,0
+3739609,207499,28021619000606,Mix Vali Com.De Produtos Alimenticios Lt,Asp,Jaguariúna,"Avenida Rinaldi, 1100, Res.Coracao De Jesus, Jaguariúna, São Paulo",3,60.0,-22.6761408,-46.9920567,30,0
+3739691,195254,50948371001301,Irmãos Boa Ltda,Irmãos Boa,Sorocaba,"Rua Coronel Nogueira Padilha, 2112, Vila Hortencia, Sorocaba, São Paulo",7,135.0,-23.50167,-47.45806,30,0
+3739702,214604,50948371002545,Irmãos Boa Ltda,Irmãos Boa,Sorocaba,"Rua Avenida Antonio Carlos Comitre, 510, Parque Campolim, Sorocaba, São Paulo",6,110.0,-23.52819,-47.46832,30,0
+3739711,207500,28021619000797,Mix Vali Com.De Produtos Alimenticios Lt,Asp,Pedreira,"Rua Dr.Arthur Moreira De Almeida, 384, Vila Sao Jose, Pedreira, São Paulo",13,260.0,-22.7476542,-46.8985023,30,0
+3739807,196721,47448840000185,Rotisserie Me Kui Fritos E Assados Ltda,Nenhum,São Paulo,"Rua Nova York, 570, Brooklin Paulista, São Paulo, São Paulo",17,340.0,-23.5475,-46.63611,30,0
+3740014,208053,49517627000103,Restaurante Lui E Venturine Ltda,Nenhum,Itu,"Rua Marcia Pierroni, 78, Itu Novo Centro, Itu, São Paulo",3,60.0,-23.26417,-47.29917,30,0
+3740015,192727,11114172000102,Venturine & Lui Ltda - Epp,Nenhum,Itu,"Rua Cristovao Diniz, 599, Jardim Do Estadio, Itu, São Paulo",3,60.0,-23.2825872,-47.2874574,30,0
+3740016,205634,05897385000155,Rodrigues & Campos Pizzaria Ltda,Nenhum,Boituva,"Rua Joao Leite, 39, Centro, Boituva, São Paulo",5,100.0,-23.2858028,-47.6746236,30,0
+3740115,213192,71676316002785,Supermercados Mambo Ltda.,Mambo,São Paulo,"Rua Martim Francisco, 753, Vila Buarque, São Paulo, São Paulo",11,220.0,-23.5475,-46.63611,30,0
+3740116,210533,71676316002351,Supermercados Mambo Ltda.,Mambo,São Paulo,"Avenida Reboucas, 1001, Cerqueira Cesar, São Paulo, São Paulo",5,100.0,-23.5603809,-46.6713758,30,0
+3740117,207683,71676316002270,Supermercados Mambo Ltda.,Mambo,São Paulo,"Rua Voluntarios Da Patria, S/N, Santana, São Paulo, São Paulo",11,220.0,-23.4944879,-46.6263702,30,0
+3740119,209833,71676316001975,Supermercados Mambo Ltda.,Mambo,Barueri,"Alameda Rio Negro, 1456, Alphaville Industrial, Barueri, São Paulo",16,320.0,-23.51056,-46.87611,30,0
+3740120,200883,71676316001622,Supermercados  Mambo Ltda,Mambo,São Paulo,"Avenida Angelica, 526, Santa Cecilia, São Paulo, São Paulo",11,220.0,-23.5374825,-46.654665,30,0
+3740121,195840,71676316001380,Supermercados Mambo Ltda,Mambo,São Paulo,"Rua Turiassu, 1205, Perdizes, São Paulo, São Paulo",5,100.0,-23.5315747,-46.6746778,30,0
+3740122,192566,71676316001207,Supermercado Mambo Ltda,Mambo,São Paulo,"Rua Canario, 390, Indianopolis, São Paulo, São Paulo",11,220.0,-23.5996044,-46.6653552,30,0
+3740123,9082,71676316000570,Supermercados Mambo Ltda,Mambo,São Paulo,"Rua Serra De Botucatu, 1703, Tatuapé, São Paulo, São Paulo",11,220.0,-23.5409791,-46.5552198,30,0
+3740124,203976,43092644000160,Jga Supermercado Ltda,Nenhum,São Paulo,"Avenida Professor Joao De Lorenzo, 526, Jardim Sao Jorge, São Paulo, São Paulo",6,120.0,-23.596056,-46.782882,30,0
+3740126,211731,45707666000112,Ao Forno Leonardos Pizzaria Ltda,Nenhum,São Paulo,"Rua Professora Nina Stocco, 845, Jardim Catanduva, São Paulo, São Paulo",5,100.0,-23.635819,-46.7592408,30,0
+3740127,13374,71676316000901,Supermercados Mambo Ltda,Mambo,São Paulo,"Avenida Giovanni Gronchi, 2799, Morumbi, São Paulo, São Paulo",11,220.0,-23.5951062,-46.7178467,30,0
+3740128,12680,71676316000812,Supermercados Mambo Ltda,Mambo,São Paulo,"Avenida Vereador José Diniz, 2329, Brooklin Paulista, São Paulo, São Paulo",16,320.0,-23.5475,-46.63611,30,0
+3740129,3657,71676316000499,Supermercados Mambo Ltda,Mambo,São Paulo,"Rua Deputado Lacerda Franco, 553, Pinheiros, São Paulo, São Paulo",21,420.0,-23.5606538,-46.6928092,30,0
+3740130,3655,71676316000227,Supermercados Mambo Ltda,Mambo,São Paulo,"Rua Aliança Liberal, 322, Vila Leopoldina, São Paulo, São Paulo",16,320.0,-23.5222368,-46.7253714,30,0
+3740134,984,47883566000172,Mercadinho A Mineira Ltda,Mineira,São Paulo,"Avenida Santa Monica, 690, Jardim Santa Monica, São Paulo, São Paulo",13,260.0,-23.4762246,-46.7478914,30,0
+3740136,1437,67964080000176,Mercado Real Jaragua Eireli,Mineira,São Paulo,"Rua Domenico Ferrara, 32, Jaraguá, São Paulo, São Paulo",12,240.0,-23.4516587,-46.7458602,30,0
+3740138,207818,18810287000180,J. L. Petri,Nenhum,Mairiporã,"Rua Edson Petri, 215, Colinas Mairipora Ii, Mairiporã, São Paulo",3,60.0,-23.2731589,-46.5904345,30,0
+3740139,803,50552967000154,Iracema Fernandes Carvalho & Cia. Ltda,Nenhum,Sorocaba,"Praça Comendador Nicolau Scarpa, 80, Centro, Sorocaba, São Paulo",14,270.0,-23.4981851,-47.4607609,30,0
+3740140,204592,27446487000197,Fast'N Fit Restaurante E Lanchonete Ltda,Nenhum,Salto,"Avenida Dos Tres Poderes, 608, Res.Central Parque, Salto, São Paulo",7,140.0,-23.20083,-47.28694,30,0
+3740141,206576,47443176000181,Number Two Com. De Alimentos Ltda,Nenhum,São José dos Campos,"Avenida Sao Joao, 2555, Jardim Das Colinas, São José Dos Campos, São Paulo",6,120.0,-23.17944,-45.88694,30,0
+3740143,212931,06057223049260,Sendas Distribuidora S/A,Sendas,Sorocaba,"Rua Senhora Maria Aparecida Pessutti Millego, 250, Parque Campolim, Sorocaba, São Paulo",76,1485.0,-23.52819,-47.46832,30,0
+3740144,207236,06057223053704,Sendas Distribuidora S/A,Sendas,Sorocaba,"Rua Maria Cinto De Biaggi, 164,  Jardim Santa Rosalia, Sorocaba, São Paulo",118,2315.0,-23.4901946,-47.4450244,30,0
+3740149,1182,52829322000141,Center Carnes Penha Ltda-Epp,Nenhum,São Paulo,"Avenida Amador Bueno Da Veiga, 3025, Penha, São Paulo, São Paulo",10,180.0,-23.5218536,-46.5170071,30,0
+3740151,208994,60960713000129,Ataide Frangos Comercio De Carnes Ltda,Nenhum,São Paulo,"Avenida Professor Francisco Morato, 3030, Butanta, São Paulo, São Paulo",6,120.0,-23.5769521,-46.7078899,30,0
+3740152,2951,60465093000151,Supermercado America Ltda.,Nenhum,São Paulo,"Rua Miguel  Rodrigues, 112, Vila Beatriz, São Paulo, São Paulo",8,160.0,-23.5495916,-46.6980264,30,0
+3740155,206034,47112268000189,Fazenda Mais Largo Treze Ltda.,Nenhum,São Paulo,"Rua Amador Bueno, 229, Santo Amaro, São Paulo, São Paulo",5,100.0,-23.6531847,-46.7102133,30,0
+3740156,204283,32902981000159,Fazenda Abc Food Ltda,Divino Fogão,Santo André,"Avenida Pereira Barreto, 42, Paraiso, Santo André, São Paulo",6,120.0,-23.6695869,-46.5340595,30,0
+3740163,205416,18926996000126,Paglias Ind.E Com. De Alimentos Ltda,Nenhum,São Paulo,"Praça Comandante Eduardo De Oliveira, 126, Parque Edu Chaves, São Paulo, São Paulo",15,300.0,-23.4771251,-46.5638035,30,0
+3740164,205512,45161273000156,Kmd Comercio De Carnes Em Geral Ltda,Nenhum,São Paulo,"Rua Jose Vieira Guimaraes, 130, Jardim Santa Teresinha, São Paulo, São Paulo",5,92.0,-23.5233272,-46.4251563,30,0
+3740165,205996,47675130000198,Lukas Supermercado Ltda,Nenhum,São Paulo,"Rua Silvio Lazzari, 31, Vila Gustavo, São Paulo, São Paulo",9,180.0,-23.4870492,-46.5990058,30,0
+3740168,984,47883566000172,Mercadinho A Mineira Ltda,Mineira,São Paulo,"Avenida Santa Monica, 690, Jardim Santa Monica, São Paulo, São Paulo",22,440.0,-23.4762246,-46.7478914,30,0
+3740169,209744,49120337000121,49.120.337 Roselaine Barbosa Caraca,Nenhum,Guarulhos,"Avenida Atalaia Do Norte, 527, Jardim Cumbica (Jardim Preside, Guarulhos, São Paulo",3,60.0,-23.4525325,-46.4413987,30,0
+3740170,180887,12968929000198,Lanchonete Burguerleme Ltda,Nenhum,São Paulo,"Avenida Braz Leme, 2040, Santana, São Paulo, São Paulo",5,98.0,-23.5048653,-46.6409346,30,0
+3740171,201449,14788685000197,Daniele Zampier Nicola Lanchonete,Nenhum,São Paulo,"Avenida Dr Gastao Vidigal, 1946, Vl Leopoldina, São Paulo, São Paulo",6,120.0,-23.536284,-46.7376947,30,0
+3740174,188867,08281654000142,Vivimar Alimentos Ltda - Me,Nenhum,Itapetininga,"Rua Professor Atilio Innocenti, 29, Vila Nova Conceição, São Paulo, São Paulo",4,80.0,-23.70114,-48.10404,30,0
+3740176,204235,03731886000131,Jos Restaurante Eireli,Divino Fogão,São Paulo,"Rua Doutor Joao Ribeiro, 304, Penha De Franca, São Paulo, São Paulo",4,80.0,-23.5251778,-46.5467519,30,0
+3740177,204210,10835400000170,Vilma Restaurante Ltda,Divino Fogão,Osasco,"Avenida Autonomistas, Dos, 1400, Vila Yara, Osasco, São Paulo",5,100.0,-23.5389781,-46.7653358,30,0
+3740178,214961,57174248000196,Fazenda Campineira Restaurante Ltda,Divino Fogão,Campinas,"Avenida Iguatemi, 777, Vila Brandina, Campinas, São Paulo",4,80.0,-22.8924024,-47.0272094,30,0
+3740179,205573,04966066000191,Santa Food Ltda,Divino Fogão,São Paulo,"Rua Domingos De Morais, 2564, Vila Mariana, São Paulo, São Paulo",4,80.0,-23.5990047,-46.6369432,30,0
+3740180,168881,13063363000118,Emporium Hitomix Ltda,Nenhum,São Paulo,"Rua José Getulio, 142, Liberdade, São Paulo, São Paulo",6,120.0,-23.5672233,-46.6360806,30,0
+3740182,205453,46224948000121,M.P. Casa De Carnes Ltda,Nenhum,Jaguariúna,"Avenida Rinaldi, 549, Jd Sylvio Rinaldi I, Jaguariúna, São Paulo",19,349.0,-22.6830969,-46.9918713,30,0
+3740186,197441,32103677000141,Rotisserie Divino Eireli,Nenhum,Sorocaba,"Rua Doutor Luiz Mendes De Almeida, 663, Vila Espirito Santo, Sorocaba, São Paulo",15,300.0,-23.50167,-47.45806,30,0
+3740189,10245,01783154000160,Açougue E Casa De Frios Suzano Ltda - Me,Nenhum,São Paulo,"Avenida Inacio Cunha Leme, 301, Jardim Suzana, São Paulo, São Paulo",7,140.0,-23.5475,-46.63611,30,0
+3740190,9426,03785835000192,Tulipas Comercial Ltda- Me,Nenhum,São Paulo,"Rua Cambuci Do Vale, 52, Cidade Dutra, São Paulo, São Paulo",4,75.0,-23.7142184,-46.7019877,30,0
+3740191,13450,03505961000146,Lanchonete Souza Pompeia Ltda,Nenhum,São Paulo,"Avenida Pompeia, 1115, Vila Pompéia, São Paulo, São Paulo",6,120.0,-23.5339352,-46.6874622,30,0
+3740192,211174,31238414000187,Aurilei Prates Silva Ltda,Nenhum,São Bernardo do Campo,"Estrada Henrique Rosa, 670, Finco (Jd Tupa), São Bernardo Do Campo, São Paulo",19,375.0,-23.69389,-46.565,30,0
+3740193,213691,50562736000121,Quintal Dalina Restaurante Ltda,Nenhum,São Bernardo do Campo,"Rua Municipal, 349, Centro, São Bernardo Do Campo, São Paulo",3,60.0,-23.7112629,-46.5474498,30,0
+3740194,200751,04059651000108,Center Carnes Select Ltda,Nenhum,Diadema,"Rua Santa Bernadete, 344, Canhema, Diadema, São Paulo",27,520.0,-23.6728106,-46.6037944,30,0
+3740195,6390,68968122000100,Dn Com De Carnes,Nenhum,Parapuã,"Estrada Cel.Jose Gladiador, 22, Jardim Canaã, São Paulo, São Paulo",9,180.0,-21.76806,-50.77167,30,0
+3740196,13733,45543915008247,Carrefour Comercio E Industria Ltda,Carrefour,Itapevi,"Rodovia Presidente Castelo Branco Km 33, Sn, Itaqui, Itapevi, São Paulo",35,700.0,-23.54889,-46.93417,30,0
+3740197,194202,10900904000127,Salt Pie Ind.Com.Prod.Alim. Ltda,Nenhum,Hortolândia,"Rua Um, 510, Parque Do Horto, Hortolândia, São Paulo",12,240.0,-22.8535255,-47.1982364,30,0
+3740198,13733,45543915008247,Carrefour Comercio E Industria Ltda,Carrefour,Itapevi,"Rodovia Presidente Castelo Branco Km 33, Sn, Itaqui, Itapevi, São Paulo",250,5000.0,-23.54889,-46.93417,30,0
+3740199,177924,96422464000327,Infanger & Cia Ltda,Infanger,Vinhedo,"Avenida Arnaldo Biagiolli, 151, Pinheirinho, Vinhedo, São Paulo",30,600.0,-23.02972,-46.97528,30,0
+3740200,197060,96422464000165,Infanger & Cia Ltda,Infanger,Vinhedo,"Rua Santa Cruz (Jd.Santa Rosa), 500, Santa Rosa, Vinhedo, São Paulo",16,320.0,-23.02972,-46.97528,30,0
+3740203,13733,45543915008247,Carrefour Comercio E Industria Ltda,Carrefour,Itapevi,"Rodovia Presidente Castelo Branco Km 33, Sn, Itaqui, Itapevi, São Paulo",360,7200.0,-23.54889,-46.93417,30,0
+3740204,13733,45543915008247,Carrefour Comercio E Industria Ltda,Carrefour,Itapevi,"Rodovia Presidente Castelo Branco Km 33, Sn, Itaqui, Itapevi, São Paulo",67,1005.0,-23.54889,-46.93417,30,0
+3740205,204033,10672254000100,Top Fazenda Restaurante Ltda,Divino Fogão,São Paulo,"Avenida Paulista, 854, Bela Vista, São Paulo, São Paulo",4,80.0,-23.5658304,-46.6508381,30,0
+3740206,203367,33688717000208,Jardim Satelite Hortifruti Ltda,Rede Sitio Verde,Jacareí,"Avenida Das Letras, 659, Lot. Villa Branca, Jacareí, São Paulo",3,60.0,-23.2639515,-45.9453678,30,0
+3740207,203367,33688717000208,Jardim Satelite Hortifruti Ltda,Rede Sitio Verde,Jacareí,"Avenida Das Letras, 659, Lot. Villa Branca, Jacareí, São Paulo",2,40.0,-23.2639515,-45.9453678,30,0
+3740208,203367,33688717000208,Jardim Satelite Hortifruti Ltda,Rede Sitio Verde,Jacareí,"Avenida Das Letras, 659, Lot. Villa Branca, Jacareí, São Paulo",3,60.0,-23.2639515,-45.9453678,30,0
+3740209,201808,21258735000190,Mercado Silva Jundiai Dois Eireli,Nenhum,Jundiaí,"Avenida Samuel Martins, 1979, Jardim Do Lago, Jundiaí, São Paulo",10,200.0,-23.2082009,-46.8664534,30,0
+3740210,203867,08944502000344,Examine Supermercados Ltda,Examine,Rio Claro,"Avenida 68, 356, Jd Cidade Azul, Rio Claro, São Paulo",55,1085.0,-22.3869334,-47.5792418,30,0
+3740211,202974,40001127000140,Tania M. Cutolo Ltda,Nenhum,Praia Grande,"Avenida Maria Cavalcante Da Silva, 538, Jardim Samambaia, Praia Grande, São Paulo",6,120.0,-24.00583,-46.40278,30,0
+3740212,177927,13427394000100,Restaurante E Bar Macedo`S Ltda,Nenhum,Santos,"Rua Duque De Caxias, 21, Campo Grande, Santos, São Paulo",13,260.0,-23.9599623,-46.3415268,30,0
+3740213,210973,52131824000102,Gbp Jundiai Restaurante Ltda,Nenhum,Jundiaí,"Avenida Nove De Julho, 3333, Anhangabau, Jundiaí, São Paulo",3,60.0,-23.1994672,-46.8896937,30,0
+3740214,204885,28021619000363,Mix Vali Com. De Produtos Alimenticios L,Asp,Itatiba,"Rua Iolanda Latorre Cascaldi, 40, Loteamento Parque Dos Canarios, Itatiba, São Paulo",27,540.0,-23.00583,-46.83889,30,0
+3740215,211173,50381074000193,Acougue Ceara Cortes Ltda,Nenhum,Itu,"Rua Doutor Eugenio Da Fonseca, 383, Jardim Aeroporto I, Itu, São Paulo",4,80.0,-23.26417,-47.29917,30,0
+3740217,188954,21515315000141,Via Brasil Sorocaba Ltda - Me,Nenhum,Sorocaba,"Rua Fernando Silva, 110, Jd Astro, Sorocaba, São Paulo",3,58.0,-23.50167,-47.45806,30,0
+3740218,184448,15843794000122,Restaurante Via Brasil Ltda Epp,Nenhum,Vinhedo,"Avenida Benedito Storani, 762, Residencial Aquario, Vinhedo, São Paulo",5,98.0,-23.02972,-46.97528,30,0
+3740219,7702,52912854000148,Casa De Carnes Do Nelo Ltda,Nenhum,Itu,"Rua A Esquina Com Alameda Alice, 127, Jardim Convenção, Itu, São Paulo",22,432.0,-23.26417,-47.29917,30,0
+3740220,200845,10969729000124,Cristiane Ap. Dutra Da Silva,Nenhum,Sorocaba,"Rua Paes De Linhares, 311, Vila Fiori, Sorocaba, São Paulo",7,140.0,-23.50167,-47.45806,30,0
+3740221,214169,28021619001173,Mix Vali Com.De Produtos Alimenticios Lt,Asp,Valinhos,"Rua Das Gardenias, 223, Parque Cecap, Valinhos, São Paulo",5,95.0,-22.949446,-46.9813763,30,0
+3740222,203847,71451926000141,Real Alimentos Ltda,Padaria Real,Sorocaba,"Avenida Moreira Cesar, 308, Vila Grandino, Sorocaba, São Paulo",15,300.0,-23.5049803,-47.4635694,30,0
+3740225,194142,53794749000114,Nova Parati Pães E Doces Ltda - Me,Nenhum,Cotia,"Avenida Eid Mansur, 18, Parque São George, Cotia, São Paulo",3,60.0,-23.5959976,-46.8511558,30,0
+3740226,175761,08982554000143,Lanchonete Unidos Da Vila Ltda Epp,Nenhum,São Paulo,"Rua Gomes De Carvalho, 1614, Vila Olímpia, São Paulo, São Paulo",5,100.0,-23.5950063,-46.6896149,30,0
+3740227,169461,08924531000182,Freitas & Barbosa Carnes Ltda,Nenhum,Salto,"Rua Estado Da Bahia, 261, São Pedro São Paulo, Salto, São Paulo",5,100.0,-23.2053331,-47.3080198,30,0
+3740228,191873,22938855000109,Restaurante E Pizzaria Meninos Ltda,Nenhum,Itu,"Praça Da Independencia, 218, Centro, Itu, São Paulo",3,60.0,-23.2657287,-47.2974244,30,0
+3740229,214919,43964873000127,Mar Cristal Paes E Doces Ltda,Nenhum,São Paulo,"Rua Cachoeira Dourada, 130, Jardim Maria Estela, São Paulo, São Paulo",5,94.0,-23.5475,-46.63611,30,0
+3740230,204032,49311558000187,Advance Ind.Textil Ltda,Nenhum,Várzea Paulista,"Rua Pedro Gutierrez, 228, Jd.Primavera, Várzea Paulista, São Paulo",189,3780.0,-23.2104667,-46.8400222,30,0
+3740232,13376,07626424000105,Vieira E Lara Supermercado Ltda,Nenhum,Iguape,"Avenida Capitão Julio Franco, 390, Rocio, Iguape, São Paulo",12,235.0,-24.70806,-47.55528,30,0
+3740234,201312,29974212000151,Casa De Carnes Cruzeiro Ltda,Nenhum,Tatuí,"Rua Do Cruzeiro, 37, Centro, Tatuí, São Paulo",10,200.0,-23.3511231,-47.8440633,30,0
+3740236,210137,66888595000503,Supermercado Servidao Ltda,Rede Servidão,Caieiras,"Rua Jose Do Carmo Leite, 104, Centro, Caieiras, São Paulo",3,60.0,-23.36417,-46.74056,30,0
+3740237,209976,18716429000307,Rede Compremais Supermercado Ltda,Nenhum,Carapicuíba,"Rua Otelo Zeloni, 32, Parque Belem, São Paulo, São Paulo",3,60.0,-23.565879,-46.8650012,30,0
+3740238,13698,10591884000150,Pedro Cardoso Da Gama Filho - Me,Nenhum,São Paulo,"Rua Aparecida Do Taboado, 208, Jardim Paulistano, São Paulo, São Paulo",7,140.0,-23.5475,-46.63611,30,0
+3740239,4822,61721734000154,José Rodrigues Merceria Me,Nenhum,Cajati,"Avenida Fernando Costa, 2143, Parafuso, Cajati, São Paulo",8,160.0,-24.7285814,-48.1171308,30,0
+3740240,211870,39324707000199,Suely Martins De Oliveira Ltda,Nenhum,Cajati,"Rua Indiara, 375, Jd.Ana Maria, Cajati, São Paulo",15,300.0,-24.7404227,-48.121226,30,0
+3740241,215480,37390347000106,37.390.347 Erica Alves Santos,Nenhum,São Paulo,"Avenida Mazzei, 1160, Vila Mazzei, São Paulo, São Paulo",8,150.0,-23.4723641,-46.5997586,30,0
+3740242,214469,54208956000102,Supermercado E Hortifruti Princesinha Lt,Nenhum,Sorocaba,"Avenida Ipanema, 1338, Jd. Novo Horizonte, Sorocaba, São Paulo",6,120.0,-23.50167,-47.45806,30,0
+3740243,207057,48389562000103,Supermercado Carioca Hip Ltda,Nenhum,São Paulo,"Rua Alencar Araripe, 1435, Sacoma, São Paulo, São Paulo",6,120.0,-23.6130408,-46.5972138,30,0
+3740247,214191,28021619001335,Mix Vali Comercio De Produtos Alimentici,Asp,Valinhos,"Rua Jose Carlos Ferrari, 79, Residencial Santa Maria, Valinhos, São Paulo",45,896.0,-22.9430217,-46.9981697,30,0
+3740248,213199,37973865000144,A.R. Camareli,Nenhum,Jundiaí,"Rua Da Padroeira, 298, Centro, Jundiaí, São Paulo",3,60.0,-23.18639,-46.88417,30,0
+3740249,203429,08944502000263,Examine Supermercados Ltda,Examine,Rio Claro,"Avenida Saburo Akamine, 1125, Jardim Matheus Maniero, Rio Claro, São Paulo",9,170.0,-22.3980124,-47.5936443,30,0
+3740250,214377,08944502000697,Examine Supermercados Ltda,Examine,Cordeirópolis,"Rodovia Constante Peruchi, 677, Bairro Do Cascalho, Cordeirópolis, São Paulo",6,110.0,-22.48194,-47.45667,30,0
+3740255,8948,02540602000167,Nutri Leal Refeições Ltda Me,Nenhum,Osasco,"Rua Martim Afonso, 210, Jardim Piratininga, Osasco, São Paulo",6,120.0,-23.5198227,-46.7936859,30,0
+3740256,8304,66649112000186,Casa De Carnes Alphaville Ltda Epp,Nenhum,Santana de Parnaíba,"Avenida Yojiro Takaoka, 4492, Alphaville, Santana De Parnaíba, São Paulo",8,145.0,-23.4678426,-46.8707308,30,0
+3740257,210071,51578571000149,Super Cm Compre Mais Supermercado Ltda,Nenhum,Cabreúva,"Avenida Vereador Jose Donato, 1385, Vilarejo, Cabreúva, São Paulo",10,200.0,-23.275325,-47.0495177,30,0
+3740258,10936,53125431000140,Lanchonete Embare De Santo. Ltda,Nenhum,Santos,"Avenida Drº Epitacio Pessoa, 241, Embaré, Santos, São Paulo",8,160.0,-23.96083,-46.33361,30,0
+3740259,201022,03951495000122,Mercado Ponto X Itanhaem Eireli,Nenhum,Itanhaém,"Avenida Goncalo Monteiro, 625, Cibratel Ii, Itanhaém, São Paulo",6,115.0,-24.2026378,-46.835336,30,0
+3740260,214190,28021619001254,Mix Vali Comercio De Produtos Alimentici,Asp,Vinhedo,"Rua Sao Paulo, 120, Nova Vinhedo, Vinhedo, São Paulo",17,340.0,-23.021575,-46.9864998,30,0
+3740264,194545,26916462000147,Rodosnack Mirante Lanch.Restaurante Ltda,Nenhum,Jarinu,"Rodovia Dom Pedro I - Sp 065, S/N, Centro, Jarinu, São Paulo",3,60.0,-23.10139,-46.72833,30,0
+3740265,213331,54803962000108,Restaurante Do Queijeiro 4 Ltda,Nenhum,Atibaia,"Rodovia Fernao Dias Km 41,50, S/N, Jardim Do Alvinopolis, Atibaia, São Paulo",12,230.0,-23.11694,-46.55028,30,0
+3740266,205234,46100282000108,Gilmar Marques De Lima Acougue,Nenhum,Piracaia,"Avenida Dr Alipio Ferreira, 490, Catigua, Piracaia, São Paulo",6,110.0,-23.05389,-46.35806,30,0
+3740267,204577,41649009000105,Acougue Campeao Ltda,Nenhum,Mairiporã,"Rua Sao Judas Tadeu, S/N, Capoavinha, Mairiporã, São Paulo",6,115.0,-23.31861,-46.58667,30,0
+3740268,207276,48464281000160,Crispybox Ltda,Nenhum,Atibaia,"Rua Brasil, 171, Atibaia Jardim, Atibaia, São Paulo",6,120.0,-23.1209541,-46.5575287,30,0
+3740279,204734,07468307000160,R.R. Frei - Lanchonete Unipessoal Ltda,Divino Fogão,São Paulo,"Rua Frei Caneca, 569, Consolacao, São Paulo, São Paulo",6,120.0,-23.5541787,-46.6524022,30,0
+3740281,207498,28021619000525,Mix Vali Com.De Produtos Alimenticios Lt,Asp,Jaguariúna,"Rua Thomaz Jasso, 480, Jd.Dona Irma, Jaguariúna, São Paulo",31,620.0,-22.70556,-46.98583,30,0
+3740282,212533,08944502000506,Examine Supermercados Ltda,Examine,Santa Gertrudes,"Rua Vereador Gumercindo Fernandes Pereira, 1030, Jardim Parque Industrial, Santa Gertrudes, São Paulo",25,500.0,-22.4466094,-47.5455028,30,0
+3740284,160441,50176064000116,Irmãos Yamada Com.Aves Ovos Ltda Me,Nenhum,Jacareí,"Rua Dr Lucio Malta, 315, Centro, Jacareí, São Paulo",8,150.0,-23.3038095,-45.9691587,30,0
+3740285,14415,05910352000106,F.A.B Pães & Doces 39 Ltda Me,Nenhum,Cotia,"Avenida Ivo Mario Isaac Pires, 10/1,  Das Pedras, Cotia, São Paulo",3,60.0,-23.6277066,-46.9854168,30,0
+3740291,10855,73053498000124,Erenito Comercio De Pastel Ltda,Nenhum,Itaquaquecetuba,"Rua Cana Verde, 110, Jardim Silvestre, Itaquaquecetuba, São Paulo",3,60.0,-23.48611,-46.34833,30,0
+3740299,10372,67439638000102,Casa De Carnes São Judas Tadeu Ltda Epp,Nenhum,Jundiaí,"Avenida Bento Figueredo, 275, Vila Marlene, Jundiaí, São Paulo",18,348.0,-23.18639,-46.88417,30,0
+3740300,190371,02022595000101,Rio Das Pedras Com. De Hortifrutigranjei,Nenhum,Campinas,"Rua Doutor Alberto Gallo, 226, Cidade Universitaria Ii, Campinas, São Paulo",5,100.0,-22.90556,-47.06083,30,0
+3740304,204310,14061621000190,Seu Tempero Restaurante Eireli,Divino Fogão,São Caetano do Sul,"Alameda Terracota, 545, Ceramica, São Caetano Do Sul, São Paulo",4,80.0,-23.626508,-46.5807647,30,0
+3740309,10700,44480747000160,Andorinha Supermercado Ltda,Andorinha,São Paulo,"Avenida Parada Pinto, 2262, Vila Nova Cachoeirinha, São Paulo, São Paulo",120,2350.0,-23.47337,-46.6669789,30,0
+3740312,934,43559079000106,Supermercado Bergamini Ltda,Bergamini,São Paulo,"Avenida Roland Garros, 1765, Jd.Brasil, São Paulo, São Paulo",350,6960.0,-23.4756552,-46.5718114,30,0
+3740314,177805,10559432000190,Ivanilde Gomes Dias Me,Nenhum,Mogi das Cruzes,"Rua Roseira, 35, Parque Recanto Monica, Mogi Das Cruzes, São Paulo",18,355.0,-23.52278,-46.18833,30,0
+3740321,187600,20305054000172,Gilney Cardoso Pereira-Açougue,Nenhum,Suzano,"Rua Edmilson Rodrigues Marcelino, 976, Cidade Miguel Brada, Suzano, São Paulo",12,240.0,-23.5425,-46.31083,30,0
+3740322,204619,08369002000164,J.Brasil Mercado De Carnes Ltda,Nenhum,São Paulo,"Avenida Jardim Japao, 1284, Jardim Brasil, São Paulo, São Paulo",8,160.0,-23.4793728,-46.5819262,30,0
+3740323,8333,68129121000171,Casa De Carnes Pari Ltda Me,Nenhum,São Paulo,"Rua Capitão Mor Passos, 228, Pari, São Paulo, São Paulo",5,100.0,-23.527587,-46.6153585,30,0
+3740324,195370,29033520000182,Restaurante Cozinha Do Sul Ltda,Nenhum,Monte Alto,"Rua Libero Badaro, 480, Centro, São Paulo, São Paulo",3,60.0,-21.2639265,-48.5110736,30,0
+3740325,204597,43633545000148,Nova Retiro Rest. Sociedade Unipessoal L,Nenhum,Jundiaí,"Avenida Antonio Segre, 504, Ponte De Campinas, Jundiaí, São Paulo",3,55.0,-23.1766107,-46.8982122,30,0
+3740327,202292,08944502000182,Examine Supermercados Ltda,Examine,Rio Claro,"Avenida Dos Costas, 1801, Jardim Residencial Das Palmeir, Rio Claro, São Paulo",20,385.0,-22.4357046,-47.5822843,30,0
+3740328,75,67825018000101,Regina Corsi Moreno Da Silva Mercearia,Nenhum,Guarulhos,"Rua Itajuibe, 1168, Jd. Nelia, São Paulo, São Paulo",5,95.0,-23.4331119,-46.4277298,30,0
+3740329,177692,05110816000191,Carlos Eduardo Kirsten Sanches - Me,Nenhum,Itanhaém,"Rua Joao Mariano Ferreira, 164, Centro, Itanhaém, São Paulo",16,320.0,-24.18306,-46.78889,30,0
+3740330,177692,05110816000191,Carlos Eduardo Kirsten Sanches - Me,Nenhum,Itanhaém,"Rua Joao Mariano Ferreira, 164, Centro, Itanhaém, São Paulo",1,20.0,-24.18306,-46.78889,30,0
+3740331,6708,00859326000179,G.M.Omine Quitandão Ltda -  Epp,Nenhum,Guarujá,"Rua Bandeirantes, 605, João B.Julião, Guarujá, São Paulo",10,200.0,-23.9830219,-46.2060406,30,0
+3740332,10728,03977091000108,Marta Tiemi Sakugawa Me,Nenhum,Registro,"Avenida Clara Gianotti De Souza, 560, Centro, Registro, São Paulo",5,100.0,-24.4948657,-47.8450486,30,0
+3740333,195724,29846798000179,Daniele Cristina Silva Paula 32047381835,Nenhum,Sete Barras,"Rua Herculano Ricardo, 685, Jd.Aparecida, Sete Barras, São Paulo",8,160.0,-24.3821915,-47.9244964,30,0
+3740335,193672,59290270000127,Panificadora Lindo Pão Ltda - Epp,Nenhum,São Caetano do Sul,"Rua Votorantim, 311, Barcelona, São Caetano Do Sul, São Paulo",4,80.0,-23.6191958,-46.5520096,30,0
+3740337,209311,11813940000116,Girassol Servicos De Alimentacao Ltda,Nenhum,Franco da Rocha,"Estrada Governo, Do, S/N, Pouso Alegre, Franco Da Rocha, São Paulo",25,500.0,-23.3344663,-46.7254136,30,0
+3740338,209636,49612115000126,Restaurante Jundiai Grill Ltda,Nenhum,Jundiaí,"Rua Do Retiro, 2235, Vila Das Hortencias, Jundiaí, São Paulo",4,75.0,-23.1793859,-46.9074326,30,0
+3740340,209131,06949388000158,Bella Petropolis Padaria E Confeitaria L,Nenhum,São Bernardo do Campo,"Rua Cidade De Sao Sebastiao, 201, Jardim Wallace Simonsen, São Bernardo Do Campo, São Paulo",3,60.0,-23.709775,-46.5395554,30,0
+3740342,12438,05690736000152,Angela Emico Honda Mercearia Me,Nenhum,Bom Jesus dos Perdões,"Rua Major Murzilho, 96, Centro, Bom Jesus Dos Perdões, São Paulo",14,280.0,-23.135,-46.46528,30,0
+3740343,202007,28021619000282,Mix Vali Com.De Produtos Alimenticios Lt,Asp,Vinhedo,"Estrada Municipal Da Capela, S/N, Vista Alegre, Vinhedo, São Paulo",31,610.0,-23.02972,-46.97528,30,0
+3740344,11006,06159713000189,Casa Santa Gemma Supermecado Ltda.,Nenhum,São Paulo,"Avenida Onze De Junho, 744, Vila Clementino, São Paulo, São Paulo",4,80.0,-23.5475,-46.63611,30,0
+3740347,215481,59969948000100,Familia Iii Supermercado Ltda,Nenhum,Jandira,"Rua Angelo Airoldi, 167, Jardim Centenario, Jandira, São Paulo",13,260.0,-23.5275,-46.9025,30,0
+3740348,194998,14223367000189,Supermercado Peteko Ltda,Nenhum,Cotia,"Estrada Municipal Do Caputera, 333, Ressaca, Cotia, São Paulo",5,100.0,-23.60389,-46.91917,30,0
+3740349,203861,18234665000125,Ieda M.De C.Santos Minimercado,Nenhum,Juquiá,"Rua Pernambuco, 18, Vila Sanches, Juquiá, São Paulo",4,74.0,-24.3152139,-47.6323946,30,0
+3740350,202109,21138006000108,R.M Muniz E Carneiro Carnes Ltda,Nenhum,Cajati,"Rua Chile, 250, Jd.Cardoso De Freitas, Cajati, São Paulo",31,620.0,-24.7204053,-48.0979843,30,0
+3740352,12895,08961223000127,Mercadinho Top Ltda Epp.,Nenhum,Belford Roxo,"Rua Presidente Arthur Da Costa E Silva, 453, Parque São Vicente, Mauá, São Paulo",4,80.0,-22.7321,-43.36924,30,0
+3740354,204998,45959917000156,Panificadora Bella Caiubi Ltda,Nenhum,Santo André,"Rua Caiubi, 433, Jardim Pilar, Santo André, São Paulo",4,80.0,-23.6844381,-46.5392872,30,0
+3740357,197502,32162092000100,Bg Norte Alimentos Ltda,Nenhum,Itaquaquecetuba,"Rodovia Ayrton Senna Da Silva, Sn, Jardim Maria Eliza, Itaquaquecetuba, São Paulo",7,140.0,-23.48611,-46.34833,30,0
+3740359,204079,43290707000192,Cgf Calimerio Garcia Filho Ltda,Nenhum,Cabreúva,"Rua Antonio Furquim, 220, Jacare, Cabreúva, São Paulo",3,60.0,-23.2460826,-47.0575519,30,0
+3740360,213173,37071285000161,Ju & Gi Salgados Ltda,Nenhum,Jundiaí,"Rua Manoel Jose De Carvalho, 155, Jardim Santa Gertrudes, Jundiaí, São Paulo",5,100.0,-23.2528178,-46.8532603,30,0
+3740361,7263,61755450000189,Mercadinho Nestor Pestana Ltda .,Nenhum,São Paulo,"Rua Nestor Pestana, 40, Consolação, São Paulo, São Paulo",7,140.0,-23.55242,-46.65735,30,0
+3740362,11559,08263086000157,Gardini & Gardini Mercearia E Emporio Lt,Nenhum,São Paulo,"Avenida Armando Ferrentini, 406, Aclimação, São Paulo, São Paulo",7,140.0,-23.5746722,-46.6351096,30,0
+3740363,14264,04713691000121,Edu Mercado Ltda Me,Nenhum,São Paulo,"Rua João Teodoro, 842, Brás, São Paulo, São Paulo",10,180.0,-23.5345723,-46.6244535,30,0
+3740364,14264,04713691000121,Edu Mercado Ltda Me,Nenhum,São Paulo,"Rua João Teodoro, 842, Brás, São Paulo, São Paulo",15,300.0,-23.5345723,-46.6244535,30,0
+3740365,214152,56389321000184,Fenice Ristorante Pizzerie Ltda,Nenhum,Jundiaí,"Rua Do Retiro, 2173, Vila Viotto, Jundiaí, São Paulo",8,145.0,-23.1827765,-46.9008306,30,0
+3740367,12895,08961223000127,Mercadinho Top Ltda Epp.,Nenhum,Belford Roxo,"Rua Presidente Arthur Da Costa E Silva, 453, Parque São Vicente, Mauá, São Paulo",7,140.0,-22.7321,-43.36924,30,0
+3740368,203961,06335956000120,Mercado Santa Eliza Ltda,Nenhum,Itupeva,"Rodovia Mario Tonoli, 177, Est.Hidro Mineral Santa Eliza, Itupeva, São Paulo",7,140.0,-23.15306,-47.05778,30,0
+3740369,2712,61452280000163,Luzita Industria E Comercio Ltda,Nenhum,São Paulo,"Rua Teodoro Sampaio, 473, Pinheiros, São Paulo, São Paulo",12,240.0,-23.5562987,-46.6752444,30,0
+3740370,150560,10282532000112,Comércio De Frango Carlos Ltda,Nenhum,São Paulo,"Rua Dr. Ulpiano Da Costa Manso, 151, Butantã, São Paulo, São Paulo",17,340.0,-23.57374,-46.71936,30,0
+3740371,213995,47240743000100,Guaricanga Carnes Especiais Ltda,Nenhum,São Paulo,"Rua Guaricanga, 321, Lapa, São Paulo, São Paulo",22,415.0,-23.5227167,-46.7104308,30,0
+3740372,199482,21010503000380,Centro De Distrib.Rede Krill Ltda,Krill,Praia Grande,"Rua Josefa Alves Siqueira, 5891, Jardim Anhanguera, Praia Grande, São Paulo",3,60.0,-24.00583,-46.40278,30,0
+3740373,199483,21010503000975,Centro De Distrib. Rede Krill Ltda,Krill,Cubatão,"Avenida Martins Fontes, 1101, Vila Nova, Cubatão, São Paulo",3,60.0,-23.895,-46.42528,30,0
+3740374,199484,21010503000622,Centro De Distrib. Rede Krill Ltda,Krill,Mongaguá,"Avenida Nossa Senhora De Fatima, 430, Agenor De Campos, Mongaguá, São Paulo",3,60.0,-24.127765,-46.6898597,30,0
+3740375,199485,21010503001009,Centro De Distrib. Rede Krill Ltda,Krill,Itanhaém,"Rua Dos Fundadores, 463, Praia Do Sonho, Itanhaém, São Paulo",3,60.0,-24.18306,-46.78889,30,0
+3740376,199486,21010503001270,Centro De Distrib. Rede Krill Ltda,Krill,São Vicente,"Avenida Marcolino Xavier De Carvalho, 313, Cidade Nautica, São Vicente, São Paulo",3,60.0,-23.9430138,-46.417987,30,0
+3740377,199487,21010503001602,Centro De Distrib. Rede Krill Ltda,Krill,Praia Grande,"Rua Antonio Candido Da Silva, 57, Vila Sonia, Praia Grande, São Paulo",3,60.0,-23.9999472,-46.4461932,30,0
+3740378,5879,00275098000190,Avícola Silva E Dias Ltda Me,Nenhum,Pedreira,"Rua Prof. Otavio Rocha, 151, Jardim Triunfo, Pedreira, São Paulo",4,76.0,-22.74194,-46.90139,30,0
+3740379,203773,22781502000130,Joana Maria De Oliveira Silva 1556866488,Nenhum,Praia Grande,"Rua Gastao De Souxa Oliveira, 422, Quietude, Praia Grande, São Paulo",20,390.0,-24.00583,-46.40278,30,0
+3740380,211573,51533782000165,Hd Comercio De Alimentos - Ltda,Nenhum,Registro,"Rua Rio Branco, 960, Centro, Registro, São Paulo",5,95.0,-24.498679,-47.8526184,30,0
+3740381,213197,54905543000187,Mercado Sj Ltda,Nenhum,Peruíbe,"Rua Quarto, 119, Jardim Dos Prados, Peruíbe, São Paulo",21,410.0,-24.32,-46.99833,30,0
+3740382,12118,66609546000152,Supermercado Takagi Ltda Me.,Nenhum,Cananéia,"Avenida Independencia, 1136, Rocio, Cananéia, São Paulo",7,130.0,-25.0069457,-47.9313292,30,0
+3740383,205139,45877252000131,La Mary Comercio Massas Ltda,Nenhum,São Bernardo do Campo,"Estrada Luiz Marson, 381, Batistini, São Bernardo Do Campo, São Paulo",3,60.0,-23.7485643,-46.5826605,30,0
+3740384,560,56963960000101,Domingues E Scarassati Latic.Ltda - Me,Nenhum,São Paulo,"Avenida Satelite, 559 A, Cidade Satelite (São Mateus), São Paulo, São Paulo",5,100.0,-23.60583,-46.47889,30,0
+3740385,199502,21010503000460,Centro De Distrib.Rede Krill Ltda,Krill,Mongaguá,"Rua Marina, 1081, Centro, Mongaguá, São Paulo",3,60.0,-24.09306,-46.62083,30,0
+3740386,199503,21010503000541,Centro De Distrib. Rede Krill Ltda,Krill,São Vicente,"Avenida Prefeito Prestes Maia, 20, Esplanada Dos Barreiros, São Vicente, São Paulo",3,60.0,-23.96306,-46.39194,30,0
+3740387,199504,21010503000703,Centro De Distrib. Rede Krill Ltda,Krill,São Vicente,"Rua Guilherme Raposo De Almeida, 373, Cidade Nautica, São Vicente, São Paulo",3,60.0,-23.96306,-46.39194,30,0
+3740388,199505,21010503000894,Centro De Distrib. Rede Krill Ltda,Krill,Santos,"Avenida Vereador Alvaro Guimaraes, 148, Radio Clube, Santos, São Paulo",3,60.0,-23.96083,-46.33361,30,0
+3740389,199507,21010503001785,Centro De Distrbuição Rede Krill Ltda,Krill,Bertioga,"Avenida Aprovada 294, 775, Boraceia, Bertioga, São Paulo",3,60.0,-23.85444,-46.13861,30,0
+3740390,199508,21010503001866,Centro De Distribuição Rede Krill Ltda,Krill,Cubatão,"Avenida Joaquim Jorge Peralta, 166, Parque Sao Luis, Cubatão, São Paulo",3,60.0,-23.895,-46.42528,30,0
+3740391,199510,21010503001947,Centro De Distribuição Rede Krill Ltda,Krill,Guarujá,"Avenida Dos Caicaras, 1682, Jardim Las Palmas, Guarujá, São Paulo",3,60.0,-23.9999291,-46.273905,30,0
+3740392,195274,28021619000100,Mix Vali Com.Produtos Alimenticios Ltda,Asp,Valinhos,"Avenida Rosa Belmiro Ramos, 92, Ortizes, Valinhos, São Paulo",34,635.0,-22.9780597,-46.9888118,30,0
+3740393,199511,21010503001432,Centro De Distrib. Rede Krill Ltda,Krill,Bertioga,"Avenida Anchieta, 2300, Albatroz, Bertioga, São Paulo",3,60.0,-23.8376018,-46.1298621,30,0
+3740394,190014,09116528000103,Mini Mercado Ibirapuera Eireli Me,Nenhum,Guarulhos,"Rua Ibirapuera, 20, Parque Jurema, Guarulhos, São Paulo",3,60.0,-23.4465622,-46.4110879,30,0
+3740395,203087,20128572000168,Elton Aparecido De Souza,Nenhum,Juquiá,"Rua Salustino Gregoriano Leite, 142, Vila Florindo, Juquiá, São Paulo",20,400.0,-24.32083,-47.63472,30,0
+3740396,194917,01129624000176,Casa De Carnes Irmãos Rusconi Ltda,Nenhum,Boituva,"Rua Amaro J Andrade, 428, Jd.Maria Paulina, Boituva, São Paulo",14,270.0,-23.28333,-47.67222,30,0
+3740397,194851,12038869000104,C.Analia Supermercado Ltda,Nenhum,Osasco,"Rua Alagoinha, 998, Jardim Mutinga, Barueri, São Paulo",12,240.0,-23.5055776,-46.8092969,30,0
+3740398,209513,50633570000197,Supermercado Vida 2 Ltda,Nenhum,Osasco,"Rua Manaus, 395, Rochdale, Osasco, São Paulo",7,125.0,-23.5049491,-46.7769148,30,0
+3740399,3837,62590641000109,L.E. Comercio De Carnes Ltda - Me,Nenhum,Barueri,"Avenida Cachoeira, 125, Vl. Pindorama, Barueri, São Paulo",15,300.0,-23.4928532,-46.880312,30,0
+3740400,211575,09223114000175,"M J F Com De Bebidas, Acougue, Rot, Mini",Nenhum,Jandira,"Rua Presidente Castelo Branco, 174, Jardim Sorocabano, Jandira, São Paulo",15,300.0,-23.5359134,-46.9038554,30,0
+3740431,199512,21010503001513,Centro De Distrib. Rede Krill Ltda,Krill,Peruíbe,"Avenida Luciano De Bona, 2027, Vila Romar, Peruíbe, São Paulo",3,60.0,-24.2936254,-46.9770747,30,0
+3740432,199513,21010503002080,Centro De Distribuição Rede Krill Ltda,Krill,Praia Grande,"Rua Benedita Custodio, 175, Samambaia, Praia Grande, São Paulo",3,60.0,-24.0329352,-46.5216928,30,0
+3740433,207856,21010503002404,Rede Krill Supermercados Ltda,Krill,São Vicente,"Rua Frei Gaspar, 2000, Parque Sao Vicente, São Vicente, São Paulo",3,60.0,-23.9653414,-46.3869609,30,0
+3740434,214607,21010503002838,Rede Krill Supermercados Ltda,Krill,Santos,"Avenida Ana Costa, 364, Gonzaga, Santos, São Paulo",3,60.0,-23.9591554,-46.3319094,30,0
+3740435,4453,51556678000196,Casa Carnes Flor Do Jd. Hercilia Ltda Me,Nenhum,São Paulo,"Avenida Eng.Soares De Camargo, 349, Jardim Hercilia, São Paulo, São Paulo",11,220.0,-23.5399002,-46.5029158,30,0
+3740436,959,51640274000186,Casas De Massas E Doces Luigi Ltda - Epp,Nenhum,Santos,"Rua Osvaldo Cocrane, 60, Embaré, Santos, São Paulo",4,80.0,-23.96083,-46.33361,30,0
+3740437,215104,59007557000105,Amigo Churrasqueiro Comercio De Carnes L,Nenhum,Cabreúva,"Rua Marechal Deodoro Da Fonseca, 240, Centro, Cabreúva, São Paulo",5,90.0,-23.3069129,-47.1334429,30,0
+3740438,214904,58539253000118,58.539.253 Natiano Rocha Silva,Nenhum,Carapicuíba,"Rua Sao Lucas Evangelista, 236, Jardim Cibele, Carapicuíba, São Paulo",5,100.0,-23.52272,-46.835,30,0
+3740439,193781,04643194000102,Valdemir Xavier De Oliveira - Me,Nenhum,Osasco,"Rua Hebert De Souza - Betinho, 112, Portal D'Oeste, Osasco, São Paulo",4,80.0,-23.5325,-46.79167,30,0
+3740440,204778,43550702000151,Carlao Pub'S Bar E Lanchonete Ltda,Nenhum,São Paulo,"Rua Dronsfield, 47, Lapa, São Paulo, São Paulo",5,100.0,-23.5187703,-46.7053525,30,0
+3740441,191611,24071844000191,Bovigg Comercio Carnes E Rotisserie Ltda,Nenhum,Osasco,"Rua Professor Jose Azevedo Minhoto, 378, Vila Quitauna (Km18), Osasco, São Paulo",9,180.0,-23.5298717,-46.7942864,30,0
+3740442,3543,50876762000124,Mercadinho Barcelona Ltda,Nenhum,São Paulo,"Rua Barcelona, 414, Jaguaré, São Paulo, São Paulo",5,100.0,-23.5440225,-46.7487484,30,0
+3740443,213671,52418505000174,Fazenda Catarina Food Ltda,Divino Fogão,São Roque,"Rua Rafael Dias Costa, 140, Dona Catarina, São Roque, São Paulo",5,100.0,-23.4214027,-47.1647888,30,0
+3740444,194177,27461192000190,Casa Carnes Mendes E Gonçalves Ltda - Me,Nenhum,Cabreúva,"Avenida Paschoal Santi, 957, Vilarejo, Cabreúva, São Paulo",11,207.0,-23.2828843,-47.0587768,30,0
+3740445,199482,21010503000380,Centro De Distrib.Rede Krill Ltda,Krill,Praia Grande,"Rua Josefa Alves Siqueira, 5891, Jardim Anhanguera, Praia Grande, São Paulo",10,200.0,-24.00583,-46.40278,30,0
+3740446,214550,57764096000181,Minimercado Parana Bonome Albanez Ltda,Nenhum,Osasco,"Avenida Flora, 829, Jardim Jaguaribe, Osasco, São Paulo",16,315.0,-23.5613402,-46.79033,30,0
+3740451,199502,21010503000460,Centro De Distrib.Rede Krill Ltda,Krill,Mongaguá,"Rua Marina, 1081, Centro, Mongaguá, São Paulo",8,160.0,-24.09306,-46.62083,30,0
+3740452,199484,21010503000622,Centro De Distrib. Rede Krill Ltda,Krill,Mongaguá,"Avenida Nossa Senhora De Fatima, 430, Agenor De Campos, Mongaguá, São Paulo",8,160.0,-24.127765,-46.6898597,30,0
+3740453,199504,21010503000703,Centro De Distrib. Rede Krill Ltda,Krill,São Vicente,"Rua Guilherme Raposo De Almeida, 373, Cidade Nautica, São Vicente, São Paulo",8,160.0,-23.96306,-46.39194,30,0
+3740454,199505,21010503000894,Centro De Distrib. Rede Krill Ltda,Krill,Santos,"Avenida Vereador Alvaro Guimaraes, 148, Radio Clube, Santos, São Paulo",8,160.0,-23.96083,-46.33361,30,0
+3740455,199483,21010503000975,Centro De Distrib. Rede Krill Ltda,Krill,Cubatão,"Avenida Martins Fontes, 1101, Vila Nova, Cubatão, São Paulo",25,500.0,-23.895,-46.42528,30,0
+3740456,199509,21010503001351,Centro De Distrib. Rede Krill Ltda,Krill,Guarujá,"Avenida Santos Dumont, 1503, Sitio Paecara (Vicente De Carv, Guarujá, São Paulo",8,160.0,-23.9540438,-46.2912372,30,0
+3740457,199511,21010503001432,Centro De Distrib. Rede Krill Ltda,Krill,Bertioga,"Avenida Anchieta, 2300, Albatroz, Bertioga, São Paulo",8,160.0,-23.8376018,-46.1298621,30,0
+3740458,202067,14958571000148,Rogerio Aurichio 27486639858,Nenhum,Praia Grande,"Rua Afonso Chaves, 1083, Cidade Ocian, Praia Grande, São Paulo",11,220.0,-24.00583,-46.40278,30,0
+3740459,11939,07149309000197,Neusa Eni Da Costa Me,Nenhum,Sete Barras,"Rua Julio Prestes, 1055, Centro, Sete Barras, São Paulo",15,300.0,-24.3840612,-47.9284094,30,0
+3740460,190648,53687752000139,Cerelab - Laboratórios Químicos Ltda,Nenhum,São Paulo,"Rua Itapeva, 142, Bela Vista, São Paulo, São Paulo",1,20.0,-23.5582442,-46.6508379,30,0
+3740461,199512,21010503001513,Centro De Distrib. Rede Krill Ltda,Krill,Peruíbe,"Avenida Luciano De Bona, 2027, Vila Romar, Peruíbe, São Paulo",8,160.0,-24.2936254,-46.9770747,30,0
+3740462,199487,21010503001602,Centro De Distrib. Rede Krill Ltda,Krill,Praia Grande,"Rua Antonio Candido Da Silva, 57, Vila Sonia, Praia Grande, São Paulo",10,200.0,-23.9999472,-46.4461932,30,0
+3740463,199507,21010503001785,Centro De Distrbuição Rede Krill Ltda,Krill,Bertioga,"Avenida Aprovada 294, 775, Boraceia, Bertioga, São Paulo",25,500.0,-23.85444,-46.13861,30,0
+3740464,199508,21010503001866,Centro De Distribuição Rede Krill Ltda,Krill,Cubatão,"Avenida Joaquim Jorge Peralta, 166, Parque Sao Luis, Cubatão, São Paulo",15,300.0,-23.895,-46.42528,30,0
+3740465,199510,21010503001947,Centro De Distribuição Rede Krill Ltda,Krill,Guarujá,"Avenida Dos Caicaras, 1682, Jardim Las Palmas, Guarujá, São Paulo",10,200.0,-23.9999291,-46.273905,30,0
+3740466,199513,21010503002080,Centro De Distribuição Rede Krill Ltda,Krill,Praia Grande,"Rua Benedita Custodio, 175, Samambaia, Praia Grande, São Paulo",8,160.0,-24.0329352,-46.5216928,30,0
+3740467,199488,21010503002161,Centro De Distrib. Rede Krill Ltda,Krill,Santos,"Avenida Santista, 833, Morro De Nova Cintra, Santos, São Paulo",15,300.0,-23.9458312,-46.3552528,30,0
+3740468,192324,07732866000136,Antonelli Supermercado Ltda,Antonelli,Itapira,"Rua Soldado Constitucionalista, 54, Jardim Soares, Itapira, São Paulo",12,264.0,-22.43611,-46.82167,30,0
+3740469,215721,59413621000140,Corrientes Conveniencias E Delivery Ltda,Nenhum,São Paulo,"Rua Corrientes, 14, Lapa, São Paulo, São Paulo",8,145.0,-23.5220098,-46.7114385,30,0
+3740470,194847,00963312000109,Mercado Explosão Ltda - Me,Nenhum,Sorocaba,"Rua Carlos Oliveira Rodrigues, 101, Jardim Josane, Sorocaba, São Paulo",6,120.0,-23.4520305,-47.3701706,30,0
+3740471,203979,21010503002242,Rede Krill Supermercados Ltda,Krill,São Sebastião,"Estrada Do Cascalho, 415, Boicucanga, São Sebastião, São Paulo",15,300.0,-23.7787604,-45.6145048,30,0
+3740472,207856,21010503002404,Rede Krill Supermercados Ltda,Krill,São Vicente,"Rua Frei Gaspar, 2000, Parque Sao Vicente, São Vicente, São Paulo",8,160.0,-23.9653414,-46.3869609,30,0
+3740473,214607,21010503002838,Rede Krill Supermercados Ltda,Krill,Santos,"Avenida Ana Costa, 364, Gonzaga, Santos, São Paulo",5,100.0,-23.9591554,-46.3319094,30,0
+3740474,199002,62220637000140,Centro Esp. Nosso Lar C. André Luiz,Nenhum,Guarulhos,"Avenida Andre Luis, 723, Picanco, Guarulhos, São Paulo",8,160.0,-23.4390401,-46.5454237,30,0
+3740476,205814,47130867000125,Minimercado Molina Ltda,Nenhum,São Paulo,"Rua Martinho De Campos, 433, Vila Anastacio, São Paulo, São Paulo",6,120.0,-23.515852,-46.7207453,30,0
+3740477,187493,60441110000110,Frangobi Comercio Atacadista De Carnes E,Nenhum,Louveira,"Rua Guerino Furlan, 366, Colinas De Sao Jose, Louveira, São Paulo",95,1850.0,-23.100585,-46.9781594,30,0
+3740479,6678,46115580000163,Bar E Lanches Triunfo Ltda,Nenhum,São Paulo,"Avenida Itaquera, 2226, V.S.Maria, São Paulo, São Paulo",16,320.0,-23.5542277,-46.4832701,30,0
+3740481,11226,07855458000171,Maria Edvani Dos Santos Silva Me,Nenhum,Miracatu,"Rua Dr Emilio Martins Ribeiro, 141, Centro, Miracatu, São Paulo",5,95.0,-24.28139,-47.45972,30,0
+3740482,209096,43391097000113,F Dos Santos Freire,Nenhum,Guarujá,"Avenida Tancredo Neves, 1041, Cachoeira, Guarujá, São Paulo",12,240.0,-23.99306,-46.25639,30,0
+3740483,200044,53343661000186,Casa Carnes Natan Ltda,Nenhum,Campinas,"Rua Nicaragua, 307, N Europa, Campinas, São Paulo",8,155.0,-22.932135,-47.0672406,30,0
+3740486,197521,31908033000168,Bg Leste Alimentos Ltda,Nenhum,GUARULHOS,"Rodovia Ayrton Senna Da Silva, Sn, Vila Anny, Guarulhos, São Paulo",11,220.0,-23.46278,-46.53333,30,0
+3740487,203106,09124906000192,Buon Gusto Pizzeria Ltda,Nenhum,São Paulo,"Rua Parapua, 832, Itaberaba, São Paulo, São Paulo",9,180.0,-23.5475,-46.63611,30,0
+3740488,200688,32044276000168,Pizzaria Vanucci Eireli,Nenhum,Osasco,"Rua Juan Vicente, 42, Bandeiras, Osasco, São Paulo",5,100.0,-23.559865,-46.8166755,30,0
+3740490,214253,13759045000609,Vila Zaira Hortifruti Ltda,Rede Sitio Verde,Guarulhos,"Rua Constancio Colalilo, 630, Vila Augusta, Guarulhos, São Paulo",6,110.0,-23.4830382,-46.539254,30,0
+3740491,190081,13759045000358,Vila Zaira Hortifruti Ltda,Rede Sitio Verde,Guarulhos,"Avenida Salgado Filho, 1536, Centro, Guarulhos, São Paulo",2,40.0,-23.4598137,-46.5328666,30,0
+3740492,190081,13759045000358,Vila Zaira Hortifruti Ltda,Rede Sitio Verde,Guarulhos,"Avenida Salgado Filho, 1536, Centro, Guarulhos, São Paulo",5,100.0,-23.4644593,-46.5303663,30,0
+3740493,190081,13759045000358,Vila Zaira Hortifruti Ltda,Rede Sitio Verde,Guarulhos,"Avenida Salgado Filho, 1536, Centro, Guarulhos, São Paulo",3,55.0,-23.4598137,-46.5328666,30,0
+3740495,199702,04998253000319,"Bella Paulista Rest.Paes,Doces,Convenien",Nenhum,São Paulo,"Rua Haddock Lobo, 328, Cerqueira Cesar, São Paulo, São Paulo",6,120.0,-23.5620377,-46.6659896,30,0
+3740496,12457,09096468000104,Casa De Carnes Radialistas Ltda Epp.,Nenhum,São Caetano do Sul,"Rua Senador Flaquer, 294, São José, São Caetano Do Sul, São Paulo",3,60.0,-23.6340594,-46.5752863,30,0
+3740497,203055,40621147000113,Santa Rita Casa De Carnes Ltda,Nenhum,São Paulo,"Rua Julia Lopes De Almeida, 288, Vila Pauliceia, São Paulo, São Paulo",7,140.0,-23.4883423,-46.6142367,30,0
+3740499,197384,32012796000199,Mercadinho Caiowaa Ltda,Nenhum,Sumaré,"Rua Caiowaa, 1759, Sumaré, São Paulo, São Paulo",4,80.0,-22.82194,-47.26694,30,0
+3740500,191876,05879591000132,Panificadora E Conf.Filianna Ltda,Nenhum,São Bernardo do Campo,"Rua Mmdc, 546, Pauliceia, São Bernardo Do Campo, São Paulo",4,80.0,-23.6747014,-46.5915321,30,0
+3740502,10808,07077428000181,Mini Mercado Carumbé Ltda Me,Nenhum,Iacanga,"Rua Rosalvo José Da Silva, 23-B, Jardim Carumbé, São Paulo, São Paulo",16,320.0,-22.0,-49.0,30,0
+3740503,214495,56909705000180,Fazenda Esplanada Food Ltda,Nenhum,Votorantim,"Avenida Gisele Constantino, 1870, Parque Bela Vista, Votorantim, São Paulo",5,100.0,-23.5410259,-47.4665175,30,0
+3740506,12194,05218394000172,Integral Alimentação Com.E Serviços Ltda,Nenhum,Cotia,"Estrada Fernando Nobre, 283/487, Parque Rincao, Cotia, São Paulo",1,20.0,-23.60389,-46.91917,30,0
+3740508,12103,08772290000101,Flv Comércio De Hortifruto Ltda.,Cuccinare,São Paulo,"Rua Matheus Grou, 159, Pinheiros, São Paulo, São Paulo",27,540.0,-23.56729,-46.69232,30,0
+3740509,210210,51711254000159,Mercearia Central De Miracatu,Nenhum,Miracatu,"Rua Kahei Nakamura, 308, Jardim Miracatu, Miracatu, São Paulo",7,140.0,-24.28139,-47.45972,30,0
+3740510,211072,51071896000130,Supermercado Varandas E Navas Ltda,Rede Litoral,Santos,"Avenida Afonso Pena, 622, Aparecida, Santos, São Paulo",46,900.0,-23.9715042,-46.3023726,30,0
+3740512,191282,17114475000101,L.F.Duarte & Cia Ltda - Me,Nenhum,Itu,"Rua Hamleto Menquini, 41, Parque Res.Potiguara, Itu, São Paulo",12,240.0,-23.26417,-47.29917,30,0
+3740513,166601,12842782000195,Restaurante Lar Doce Lar Ltda,Nenhum,São Paulo,"Avenida Otto Baumgart, 500, Vila Guilherme, São Paulo, São Paulo",6,105.0,-23.5174969,-46.6149398,30,0
+3740515,12194,05218394000172,Integral Alimentação Com.E Serviços Ltda,Nenhum,Sumaré,"Estrada Municipal Valencio Callegari, 2002, .., Sumaré, São Paulo",2,40.0,-22.82194,-47.26694,30,0
+3740516,12194,05218394000172,Integral Alimentação Com.E Serviços Ltda,Nenhum,Guarulhos,"Rua Luis Vaz De Camoes, 177, Cumbica, Guarulhos, São Paulo",1,20.0,-23.46667,-46.46667,30,0
+3740517,196999,49949472000346,Sup. Varandas Ltda,Rede Litoral,Santos,"Avenida Doutor Moura Ribeiro, 116, Marape, Santos, São Paulo",30,590.0,-23.9606757,-46.3462848,30,0
+3740518,13759,06342246000128,Irene Lucia Pereira,Nenhum,Cajati,"Rua Joao Felizardo, 477, Vila Antunes, Cajati, São Paulo",8,160.0,-24.7333484,-48.1094422,30,0
+3740519,9522,04306951000144,Jorge Nilson Schemer Me,Nenhum,Itu,"Rua Andradina, 178, Cidade Nova I, Itu, São Paulo",6,120.0,-23.26417,-47.29917,30,0
+3740520,215106,57189186000196,Lgn Distribuidora Ltda,Nenhum,Louveira,"Avenida Antonio Steck, 129, Sagrado Coracao De Jesus, Louveira, São Paulo",5,100.0,-23.08639,-46.95056,30,0
+3740521,187998,11971667000158,J.J.S Comercial De Alimentos Ltda-Me,Nenhum,Cabreúva,"Avenida Major Antonio Da Silveira Camargo, 148, Centro, Cabreúva, São Paulo",6,100.0,-23.3086055,-47.1295799,30,0
+3740522,183984,12832951000106,Mercado Silva Jundiai Eireli,Nenhum,Jundiaí,"Rua Viriato Correia, 70, Jardim Do Lago, Jundiaí, São Paulo",16,320.0,-23.2215932,-46.8624959,30,0
+3740523,205561,17322763000313,Mercado Uniao De Itupeva Ltda,Nenhum,Itupeva,"Rua Alexandrina Mathias De Oliveira, 77, Parque Das Hortensias, Itupeva, São Paulo",10,185.0,-23.15306,-47.05778,30,0
+3740524,38,61192795002387,Dias Pastorinho S/A Comerc.E Industria,Dias Pastorinho,São Paulo,"Rua Domingos De Morais, 1999, Vila Mariana, São Paulo, São Paulo",26,510.0,-23.593603,-46.6360456,30,0
+3740525,12194,05218394000172,Integral Alimentação Com.E Serviços Ltda,Nenhum,Jundiaí,"Rua Antonio Ovidio Rodrigues, 1389, Pq Industrial Jundiai Ii, Jundiaí, São Paulo",2,40.0,-23.1557772,-47.0198521,30,0
+3740526,12194,05218394000172,Integral Alimentação Com.E Serviços Ltda,Nenhum,Cotia,"Avenida Vasco Massafeli, 1010, Jardim Maria Tereza, Cotia, São Paulo",3,60.0,-23.60389,-46.91917,30,0
+3740527,13060,49949472000265,Supermercado Varandas Ltda,Rede Litoral,Santos,"Rua Alexandre Martins, 125, Aparecida, Santos, São Paulo",7,140.0,-23.9706908,-46.3055,30,0
+3740528,166581,12838412000184,Lanchonete Santo Eduardo Ltda,Nenhum,São Paulo,"Avenida Guilherme Cotching, 1746, Vila Maria, São Paulo, São Paulo",6,118.0,-23.5147153,-46.5866614,30,0
+3740529,183982,15547982000103,Maria Zileir Campoy Andrade 28447996808,Nenhum,Praia Grande,"Rua Cora Coralina, 195, Anhanguera, Praia Grande, São Paulo",17,340.0,-24.0199067,-46.4894587,30,0
+3740530,209573,13759045000510,Vila Zaira Hortifruti Ltda,Rede Sitio Verde,São Paulo,"Rua Luis Gois, 1877, Mirandopolis, São Paulo, São Paulo",7,140.0,-23.6040646,-46.6460655,30,0
+3740531,12038,00063960004945,Wal Mart Do Brasil Ltda,Sam`S,Itapecerica da Serra,"Rodovia Regis Bitencourt Km 293,5, S/N, Potupeva, Itapecerica Da Serra, São Paulo",74,1460.0,-23.71694,-46.84917,30,0
+3740532,205675,10913576000101,Viviane Rodrigues De Oliveira,Nenhum,São Paulo,"Avenida Antonio Louzada Antunes, 205, Jardim Pedro Jose Nunes, São Paulo, São Paulo",10,150.0,-23.5021947,-46.4645312,30,0
+3740533,210855,39456953000102,Lanchonete Okajima Ltda,Nenhum,Cotia,"Rua Coapa, 109, Jardim Leonor, Cotia, São Paulo",10,200.0,-23.6100182,-46.9327154,30,0
+3740535,12119,08657337000188,Supermercado Flaquer Ltda.,Arcos,São Bernardo do Campo,"Avenida Senador Flaquer, 862, Vila Euclides, São Bernardo Do Campo, São Paulo",28,560.0,-23.6927638,-46.5586558,30,0
+3740536,177846,44448892000163,Mercadinho Sanbelar Ltda -  Me,Nenhum,São Bernardo do Campo,"Rua Lazara De Oliveira Leite, 371, Demarchi, São Bernardo Do Campo, São Paulo",6,120.0,-23.7284559,-46.5582636,30,0
+3740537,203447,46112942000162,R.S.Bueno & Cia Ltda,Nenhum,Itapetininga,"Avenida Wenceslau Braz, 640, Vila Popular, Itapetininga, São Paulo",14,280.0,-23.563419,-48.0152876,30,0
+3740538,203393,46112942000243,R S Bueno & Cia Ltda,Nenhum,Itapetininga,"Rua Ary De Almeida, 71, Cambui, Itapetininga, São Paulo",11,210.0,-23.59167,-48.05306,30,0
+3740539,3663,96442330000106,Cmn Avícola E Mercearia Ltda,Nenhum,São Paulo,"Rua Martim Francisco, 723, Santa Cecília, São Paulo, São Paulo",22,415.0,-23.5429535,-46.6545662,30,0
+3740540,206275,02109378000153,Comercio De Carnes Neva Ltda,Nenhum,São Paulo,"Rua Herbart, 47, Lapa, São Paulo, São Paulo",20,300.0,-23.5197686,-46.7014124,30,0
+3740542,204736,09011996000105,Arican Restaurante Ltda,Nenhum,São Paulo,"Avenida Aricanduva, 5555, Vila Matilde, São Paulo, São Paulo",5,100.0,-23.5659937,-46.504011,30,0
+3740543,198545,31690065000130,Thiane Alimentação Ltda,Nenhum,Mairiporã,"Rua Fernando Fonseca Kvint, 40, Terra Preta, Mairiporã, São Paulo",12,240.0,-23.24389,-46.55222,30,0
+3740544,204962,45578450000102,Center Carnes Quality Ltda,Nenhum,Atibaia,"Avenida Dona Gertrudes, 1127, Alvinopolis, Atibaia, São Paulo",4,80.0,-23.118095,-46.5690266,30,0
+3740545,194237,02702956000160,Supermercado Pernambuco Ltda,Nenhum,Araçoiaba da Serra,"Rua Professor Toledo, 194, Centro, Araçoiaba Da Serra, São Paulo",16,310.0,-23.5050525,-47.6182181,30,0
+3740546,210374,17233154001106,Soberana Serviços De Refeiçao E Comercio,Nenhum,Paulínia,"Avenida Pref. Jose Lozano Araujo, 1110, Centro, Paulínia, São Paulo",2,40.0,-22.76111,-47.15417,30,0
+3740547,213651,17233154000711,Soberana Servicos De Refeicao E Comercio,Nenhum,Mauá,"Rua Regente Feijo, 166, Vila Sao Francisco, Mauá, São Paulo",4,80.0,-23.6726791,-46.4503303,30,0
+3740550,213689,48920739000148,48.920.739 Sebastiao Ferreira Da Silva G,Nenhum,São Sebastião,"Rua Das Barreiras, 63, Camburi, São Sebastião, São Paulo",5,100.0,-23.7696947,-45.6553428,30,0
+3740551,9004,57248916000182,Vick Lanches Ltda,Nenhum,São Paulo,"Avenida Jabaquara, 2592, Planalto Paulista, São Paulo, São Paulo",6,120.0,-23.5475,-46.63611,30,0
+3740552,196663,17322763000232,Mercado União De Itupeva Ltda,Nenhum,Itupeva,"Rua Alfredo Carlos Sao Jose, 47, Jd Europa, Itupeva, São Paulo",9,180.0,-23.15306,-47.05778,30,0
+3740553,161901,05422192000148,Supermercado Central Cajamar Ltda,Nenhum,Cajamar,"Praça Benedito Martins Da Cruz, 20, Centro, Cajamar, São Paulo",7,140.0,-23.35611,-46.87694,30,0
+3740554,3062,54313374000196,Supermercado Magnata Ltda.,Nenhum,Barueri,"Rua Minas Gerais, 300, Vila Boa Vista, Barueri, São Paulo",11,215.0,-23.5011283,-46.8754334,30,0
+3740555,208470,00519423000201,Casa De Carnes Sao Fernando Ltda,Nenhum,São Paulo,"Avenida Carlos Liviero, 942, Vila Liviero, São Paulo, São Paulo",5,90.0,-23.6441482,-46.5916661,30,0
+3740556,193184,23829776000114,Com.Varejista Carnes Açougue Magnifica L,Nenhum,Praia Grande,"Rua Do Conhecimento, 1233, Melvi, Praia Grande, São Paulo",5,95.0,-24.0347778,-46.5302849,30,0
+3740558,204741,44969009000180,Bar E Restaurante Os Gauchos Do Mega Pol,Nenhum,São Paulo,"Rua Br De Ladario, 670, Braz, São Paulo, São Paulo",10,200.0,-23.55,-46.61667,30,0
+3740559,11367,07947496000154,Trimais Supermercados S/A,Bergamais,São Paulo,"Avenida Dr. Francisco Ranieri, 834, Lauzane Pta., São Paulo, São Paulo",117,2260.0,-23.476523,-46.6450418,30,0
+3740561,209275,47858602000148,Gidelma Teixeira Da Silva Lacerda,Nenhum,São Paulo,"Rua Dom Vilares, 1700, Vila Das Merces, São Paulo, São Paulo",9,180.0,-23.6252244,-46.611855,30,0
+3740562,192266,17178798000169,Merc.E Açougue Soberano Ltda,Nenhum,Ferraz de Vasconcelos,"Avenida Vinicius De Moraes, 143, Vila Sao Paulo, Ferraz De Vasconcelos, São Paulo",6,120.0,-23.5578807,-46.3669865,30,0
+3740563,214959,58756078000110,58.756.078 Kaua Da Silva Ferreira,Nenhum,São Paulo,"Rua Carolus-Duran, 346, Vila Gilda, São Paulo, São Paulo",15,300.0,-23.5475,-46.63611,30,0
+3740564,204593,35002882000109,Sivanildo Silva Dos Santos,Nenhum,São Paulo,"Rua Djalma Dutra, 266, Luz, São Paulo, São Paulo",3,55.0,-23.5337193,-46.6286408,30,0
+3740565,218,67393207000144,Casa De Carnes Nova Sublime Ltda - Me,Nenhum,Cotia,"Avenida Joao Paulo Ablas, 45, Jardim Da Glória, Cotia, São Paulo",11,220.0,-23.5977232,-46.8415226,30,0
+3740567,202034,07947496000235,Trimais Supermercados S/A,Bergamais,São Paulo,"Avenida Tucuruvi, 248, Tucuruvi, São Paulo, São Paulo",73,1420.0,-23.4787794,-46.6088101,30,0
+3740569,214494,07947496000316,Trimais Supermercados S/A,Bergamais,São Paulo,"Avenida Coronel Sezefredo Fagundes, 4800, Tucuruvi, São Paulo, São Paulo",55,1070.0,-23.4760075,-46.6092907,30,0
+3740570,198984,31567826000160,Companhia Brasileira De Refeição Eireli,Nenhum,Osasco,"Rua Santa Erotildes, 80, Vila Dos Remedios, Osasco, São Paulo",5,100.0,-23.5228046,-46.7536934,30,0
+3740571,198984,31567826000160,Companhia Brasileira De Refeição Eireli,Nenhum,Osasco,"Rua Santa Erotildes, 80, Vila Dos Remedios, Osasco, São Paulo",5,100.0,-23.5205292,-46.7534175,30,0
+3740573,213091,17322763000585,Mercado Uniao De Itupeva Ltda,Nenhum,Itupeva,"Rua Santa Clara, 175, Residencial Santo Antonio, Itupeva, São Paulo",4,80.0,-23.1624922,-47.0454896,30,0
+3740574,181657,13759045000196,Vila Zaira Hortifruti Ltda,Rede Sitio Verde,Guarulhos,"Avenida Onze De Agosto, 256, Jd. Zaira, Guarulhos, São Paulo",8,155.0,-23.4644112,-46.5364085,30,0
+3740575,209573,13759045000510,Vila Zaira Hortifruti Ltda,Rede Sitio Verde,São Paulo,"Rua Luis Gois, 1877, Mirandopolis, São Paulo, São Paulo",8,155.0,-23.6040646,-46.6460655,30,0
+3740580,199306,33688717000127,Jardim Satelite Hortifruti Ltda,Rede Sitio Verde,São José dos Campos,"Avenida Andromeda, 2811, Jardim Satelite, São José Dos Campos, São Paulo",6,115.0,-23.219906,-45.8914207,30,0
+3740581,189096,17016832000107,American Steak Ltda,Nenhum,Itu,"Rua Antonio Joaquim Leme, 02, Vila Prudente De Moraes, Itu, São Paulo",8,150.0,-23.285001,-47.2893848,30,0
+3740582,200602,07751737000195,Gipa Cozinha Industrial Ltda,Nenhum,Itupeva,"Rua Prefeito Jose Carlos, 962, Jd Santa Julia, Itupeva, São Paulo",3,60.0,-23.1553979,-47.046005,30,0
+3740584,191714,04152923000110,José Maria Soares Da Silva,Nenhum,GUARULHOS,"Rua Campina Grande Do Sul, 237, Jardim Centenario, Guarulhos, São Paulo",15,300.0,-23.46278,-46.53333,30,0
+3740585,191773,11188360000266,Supermercado Amigo Da Gente Ltda,Sup. Amigo Da Gente,São Paulo,"Estrada Dom Joao Neri, 2416, Jardim Bartira, São Paulo, São Paulo",15,300.0,-23.5475,-46.63611,30,0
+3740586,191772,11188360000185,Supermercado Amigo Da Gente Ltda,Sup. Amigo Da Gente,São Paulo,"Rua Santa Etelvina, 10, Jardim Santa Teresinha, São Paulo, São Paulo",17,340.0,-23.5250364,-46.4286611,30,0
+3740587,191775,11188360000509,Supermercado Amigo Da Gente Ltda,Sup. Amigo Da Gente,Nazaré Paulista,"Rua Geronimo Barbosa Da Silva, 1624, Jardim Nazareth, São Paulo, São Paulo",15,300.0,-23.18111,-46.395,30,0
+3740588,12505,03922786000192,Convem Supermercados Ltda.,Convém,Atibaia,"Avenida Walter Engracia De Oliveira, 39, Estancia Lynce, Atibaia, São Paulo",4,75.0,-23.1248363,-46.5514725,30,0
+3740589,178735,97536721000152,Supermercado Convem De Perdões Ltda,Convém,Bom Jesus dos Perdões,"Rua 21 De Abril, 470, Centro, Bom Jesus Dos Perdões, São Paulo",4,70.0,-23.135,-46.46528,30,0
+3740590,12447,03183344000171,Supermercado Do Hakuo Ltda.,Convém,Piracaia,"Avenida Dr.Alipio Ferreira, 676, Centro, Piracaia, São Paulo",6,110.0,-23.0538678,-46.3498227,30,0
+3740591,198749,54507264000165,Varejão De Carnes Macedonia Ltda,Nenhum,São Paulo,"Rua Agostinho De Paiva, 529, C Redondo, São Paulo, São Paulo",4,80.0,-23.6520726,-46.789662,30,0
+3740592,198749,54507264000165,Varejão De Carnes Macedonia Ltda,Nenhum,São Paulo,"Rua Agostinho De Paiva, 529, C Redondo, São Paulo, São Paulo",3,60.0,-23.6520726,-46.789662,30,0
+3740593,213291,11054938000100,Pizzaria Jubilo Campo Limpo Ltda,Nenhum,Cajamar,"Estrada Campo Limpo, Do, 3000, Vila Prel, São Paulo, São Paulo",6,120.0,-23.3454526,-46.8424578,30,0
+3740595,13947,49187917000136,Restaurante Bambuzal Ltda-Epp,Nenhum,Guarujá,"Rua Cav Nami Jafet, 145, Centro, Guarujá, São Paulo",5,100.0,-23.99306,-46.25639,30,0
+3740596,194117,08084864000140,Mercado Amazonas Ltda,Nenhum,Louveira,"Rua Pedro Bassi, 499, Santo Antonio, Louveira, São Paulo",9,180.0,-23.086188,-46.9817512,30,0
+3740597,209176,40941238000136,M C S - Comercial Ltda,Nenhum,Santos,"Rua Francisco De Paula Ribeiro, 264, Estuario, Santos, São Paulo",22,430.0,-23.9687118,-46.3033049,30,0
+3740598,193977,57043267000183,Bar E Lanches Sinal Ltda - Me,Nenhum,São Paulo,"Rua Carnot, 388, Pari, São Paulo, São Paulo",4,80.0,-23.5314722,-46.622215,30,0
+3740599,194975,58707522000108,Rosario D Agostino - Me,Nenhum,São Paulo,"Rua Doutor Jose Higino, 111, Vila Oratorio, São Paulo, São Paulo",5,100.0,-23.5686126,-46.5793677,30,0
+3740600,12440,59300376000164,Supermercado Nakamitsu Ltda,Convém,Piracaia,"Estrada Municipal Maria Da Conceicao Baptista, 35, Cachoeira Baixo, Piracaia, São Paulo",5,95.0,-23.060736,-46.3671408,30,0
+3740601,188155,20248913000139,Convem Supermercados De Bragança Ltda,Convém,Bragança Paulista,"Avenida Salvador Markowicz, 339, Lagos De Santa Helena, Bragança Paulista, São Paulo",4,75.0,-22.9806161,-46.5299192,30,0
+3740603,10715,03616124000194,Manoel Barbosa De Alencar Me,Nenhum,Cananéia,"Avenida Independencia, 278, Rocio, Cananéia, São Paulo",11,205.0,-25.0069457,-47.9313292,30,0
+3740604,208817,49107473000181,Rm Hortifruti Ltda,Nenhum,São Paulo,"Rua Deputado Gouveia Franco, 3, Parque Mandaqui, São Paulo, São Paulo",7,140.0,-23.5475,-46.63611,30,0
+3740605,212851,54446063000103,Supermercado Dancar Ltda,Nenhum,São Paulo,"Avenida Diederichsen, 1277, Vila Guarani, São Paulo, São Paulo",34,680.0,-23.6332458,-46.6371398,30,0
+3740606,204277,53227435000130,Casa De Carnes Andarai Ltda,Nenhum,São Paulo,"Rua Andarai, 630, Vila Maria, São Paulo, São Paulo",5,100.0,-23.5226024,-46.5900265,30,0
+3740607,194146,27596927000192,Mercado Nova Geração Poa Ltda,Nova Geração,Poá,"Avenida Adutora, 80, Jardim Nova Poá, Poá, São Paulo",5,100.0,-23.5554671,-46.3460464,30,0
+3740608,11141,03125730000107,Mash Industria E Com. Ltda,Nenhum,São Paulo,"Avenida Marechal Tito, 6829, Itaim Paulista, São Paulo, São Paulo",11,220.0,-23.4927223,-46.3885539,30,0
+3740610,161281,12183833000114,José Alesson Silva De Jesus Minimercado,Nenhum,Praia Grande,"Avenida São Jorge, 923, Vila Mirim, Praia Grande, São Paulo",10,200.0,-24.00583,-46.40278,30,0
+3740611,196768,22963024000189,Shuqi Pan Mercadinho Me,Nenhum,São Paulo,"Rua Muniz De Souza, 918, Aclimação, São Paulo, São Paulo",4,80.0,-23.5708485,-46.627986,30,0
+3740612,205679,26422161000167,Espetinhos Do Mineiro Comercio Ltda,Nenhum,GUARULHOS,"Rua Holandesa, 150, Cidade Jardim Cumbica (Jardim, Guarulhos, São Paulo",3,60.0,-23.46278,-46.53333,30,0
+3740613,196740,02658500000140,Leila C.F.Rodrigues Mercearia,Nenhum,São Paulo,"Rua Guaraita, 6, Sao Miguel Paulista, São Paulo, São Paulo",14,280.0,-23.493,-46.43646,30,0
+3740614,13546,07968590000190,Miriam Petri,Nenhum,Mairiporã,"Rua Joao Puga Bertini, 12, Terra Preta, Mairiporã, São Paulo",21,420.0,-23.24389,-46.55222,30,0
+3740615,202975,22341181000152,Carnes Nobres Rancho Grande Ltda,Nenhum,Itu,"Rua Antonio Joaquim Leme, 2, Vila Prudente De Moraes, Itu, São Paulo",5,93.0,-23.285001,-47.2893848,30,0
+3740619,215102,58453340000158,Pmv Grelhados Ltda,Nenhum,São Bernardo do Campo,"Rua Atlantica, 230, Jardim Do Mar, São Bernardo Do Campo, São Paulo",13,260.0,-23.6910052,-46.5552196,30,0
+3740620,196767,52320512000139,Avicola E Mercearia Faisao Alto Tiete Lt,Nenhum,Poá,"Rua Desembargador Isnard Dos Reis, 1246, Cidade Kemel, São Paulo, São Paulo",5,90.0,-23.50861,-46.35583,30,0
+3740621,190174,17793656000101,Nova Montalegre Eireli Me,Gonçalves Barroso,GUARULHOS,"Avenida Professor José Munhoz, 685, Jardim Munhoz, Guarulhos, São Paulo",7,140.0,-23.46278,-46.53333,30,0
+3740622,208730,11925854000103,Kipan Ind.Com.De Produtos Alimenticios L,Nenhum,São Paulo,"Rua Cecilia Meireles, 537, Jardim Japao, São Paulo, São Paulo",20,400.0,-23.5118251,-46.5797465,30,0
+3740624,12977,09376437000107,W & W Boulevard Comércio De Alim. Ltda.,Rede Big,Atibaia,"Avenida Alfredo André, 905, Jardim Brasil, Atibaia, São Paulo",5,100.0,-23.11694,-46.55028,30,0
+3740625,13323,09376437000280,W & W Boulevard Com. Alimentos Ltda,Rede Big,Atibaia,"Rua Adolfo Andre, 100, Centro, Atibaia, São Paulo",6,120.0,-23.1129611,-46.5554752,30,0
+3740626,187884,16960314000176,B.S Copacabana Com.De Alimentos Ltda,Rede Big,Atibaia,"Avenida Prefeito Antonio J.Toledo Garcia Lopes, 1525, Jd.Das Cerejeiras, Atibaia, São Paulo",7,135.0,-23.11694,-46.55028,30,0
+3740627,187886,09376437000360,W & W Boulevard Com.De Alimentos Ltda,Rede Big,Atibaia,"Avenida Da Saudade, 61, Centro, Atibaia, São Paulo",6,120.0,-23.1159954,-46.5492865,30,0
+3740628,178836,13759045000277,Vila Zaira Hortifruti Ltda,Rede Sitio Verde,Monções,"Avenida Padre Antônio José Dos Santos, 296, Cidade Monções, São Paulo, São Paulo",19,370.0,-20.85028,-50.09167,30,0
+3740629,178836,13759045000277,Vila Zaira Hortifruti Ltda,Rede Sitio Verde,Monções,"Avenida Padre Antônio José Dos Santos, 296, Cidade Monções, São Paulo, São Paulo",4,80.0,-20.85028,-50.09167,30,0
+3740630,200510,22668523000143,Fabiola M. Haraguti Camargo 27392429809,Nenhum,Biritiba Mirim,"Rua Jose Oliva Melo, 85, Centro, Biritiba-Mirim, São Paulo",8,160.0,-23.5731197,-46.0391715,30,0
+3740631,212851,54446063000103,Supermercado Dancar Ltda,Nenhum,São Paulo,"Avenida Diederichsen, 1277, Vila Guarani, São Paulo, São Paulo",3,60.0,-23.6332458,-46.6371398,30,0
+3740632,212550,53269743000128,Mercadinho Aclimacao Ltda,Nenhum,São Paulo,"Rua Almeida Torres, 428, Aclimacao, São Paulo, São Paulo",8,160.0,-23.569768,-46.6262303,30,0
+3740633,191599,18021688000151,Mercearia D.A. Bastos - Eireli - Me,Nenhum,Guarujá,"Rua Antonio Baracal, 561, Morrinhos I, Guarujá, São Paulo",5,100.0,-23.9611553,-46.2525505,30,0
+3740634,192987,01444210000808,Comercio De Alimentos Alves E Farias Ltd,Rede Parana,Osasco,"Praça Dicran Echrefian, 12, Presidente Altino, Osasco, São Paulo",33,645.0,-23.5325,-46.79167,30,0
+3740635,8581,00063960003116,Wal Mart Do  Brasil Ltda,Sam`S,São Paulo,"Avenida Rudge, 500, Bom Retiro, São Paulo, São Paulo",12,240.0,-23.523624,-46.6500239,30,0
+3740636,187885,16960314000257,B.S Copacabana Com.De Alimentos Ltda,Rede Big,Atibaia,"Rua Japão, 37, Jd.Imperial, Atibaia, São Paulo",6,120.0,-23.11694,-46.55028,30,0
+3740637,11998,05927276000133,Mitsue Watanabe Supermercado,Rede Big,Atibaia,"Avenida São João, 1115, Centro, Atibaia, São Paulo",6,120.0,-23.1132246,-46.5569782,30,0
+3740638,204761,45237535000119,Restaurante E Pizzaria Berlim Ltda,Nenhum,São Paulo,"Rua Marechal Argolo Ferrao, 413, Vila Sabrina, São Paulo, São Paulo",5,95.0,-23.48663,-46.56651,30,0
+3740641,11008,07596045000110,Flor Da Manhã Distr.De Prod.Alim.Ltda,Nenhum,Mauá,"Rua Presidente Wenceslau Brás, 335, São Vicente, Mauá, São Paulo",40,800.0,-23.66778,-46.46139,30,0
+3740642,9828,00063960003701,Wal Mart Do Brasil Ltda,Sam`S,São Paulo,"Rua Padre Adelino, 685, Belém, São Paulo, São Paulo",19,380.0,-23.5439803,-46.5838146,30,0
+3740643,8576,00063960001334,Wal Mart Do  Brasil Ltda,Sam`S,São Paulo,"Rua Benedito Fernandes, 270, Santo Amaro, São Paulo, São Paulo",26,520.0,-23.6610006,-46.7093906,30,0
+3740646,9888,00063960003973,Wal Mart Do  Brasil Ltda,Sam`S,Barueri,"Avenida Tucunare, 80, Tambore, Barueri, São Paulo",18,360.0,-23.51056,-46.87611,30,0
+3740647,193007,01444210000999,Comercio De Alimentos Alves E Farias Ltd,Rede Parana,Itapevi,"Rua Magali Wassel, 25, Jardim Itacolomi, Itapevi, São Paulo",94,1850.0,-23.54889,-46.93417,30,0
+3740649,3416,02862774000157,Zeus Bar E Restaurante Ltda Ltda,Nenhum,Itu,"Avenida Doutor Ermilindo Maffei, 1199, Sao Luiz, Itu, São Paulo",3,60.0,-23.26417,-47.29917,30,0
+3740650,12956,09488612000140,Restaurante Rosa E Cunha Ltda Me,Nenhum,Peruíbe,"Avenida Padre Anchieta, 1821, Stella Maris, Peruíbe, São Paulo",3,60.0,-24.32,-46.99833,30,0
+3740651,203800,42462053000174,Mercado Caminho Da Esperança Ltda,Nenhum,São Paulo,"Rua Joao Amos Comenius, 417, Jardim Sao Bernardo, São Paulo, São Paulo",5,100.0,-23.7577354,-46.70655,30,0
+3740652,5319,04202752000196,Churrascaria E Pizzaria Ituana Ltda Epp,Nenhum,Itu,"Avenida Nove De Julho, 600, Vila Padre Bento, Itu, São Paulo",14,260.0,-23.2558383,-47.3125982,30,0
+3740654,7083,43428036000183,Casa De Carnes Vera Cruz Ltda - Me,Nenhum,São Paulo,"Rua Lisa Ansorge, 27, Prque São Lucas, São Paulo, São Paulo",4,75.0,-23.6038195,-46.5381379,30,0
+3740655,10273,00063960004007,Wal Mart Do Brasil Ltda,Sam`S,São José dos Campos,"Avenida Cassiano Ricardo, 1993, Jardim Alvorada, São José Dos Campos, São Paulo",9,180.0,-23.2243586,-45.9118091,30,0
+3740656,12976,09532081000145,Supermercado Ono Compacto Ltda  Epp,Rede Big,Atibaia,"Rua Nello Bacci, 121, Tanque, Atibaia, São Paulo",6,120.0,-23.0445236,-46.5692836,30,0
+3740657,203478,40852213000166,Big Sm Comercio De Alimentos Ltda,Rede Big,Atibaia,"Rua Jaci, 60, Jd Do Lago, Atibaia, São Paulo",5,100.0,-23.11694,-46.55028,30,0
+3740658,201468,35929117000210,Bw Com. Alimentos Ltda,Rede Big,Bragança Paulista,"Avenida Dos Imigrantes, 2400, Jardim America, Bragança Paulista, São Paulo",6,120.0,-22.9521237,-46.546414,30,0
+3740659,205176,09532081000307,Supermercado Ono Compacto Ltda,Rede Big,Atibaia,"Rua Antonio Cunha Leite, 2458, Portao, Atibaia, São Paulo",6,120.0,-23.2058183,-46.5886085,30,0
+3740660,210955,51158802000165,Emporio Flamboyant Comercio De Alimentos,Nenhum,Atibaia,"Avenida Santana, 2813, Nova Gardenia, Atibaia, São Paulo",5,100.0,-23.11694,-46.55028,30,0
+3740661,12591,00063960007103,Wal Mart Do Brasil Ltda,Sam`S,Cotia,"Rodovia Raposo Tavares, 23033, Granja Viana, Cotia, São Paulo",14,280.0,-23.598486,-46.8560025,30,0
+3740663,12942,08681896000123,Anas Feriozzi Restaurante Ltda,Nenhum,Itu,"Avenida Doutor Ermelindo Maffei, 1199, Sao Luiz, Itu, São Paulo",4,80.0,-23.2642243,-47.280937,30,0
+3740664,1274,58283656000149,Guimarães Carnes E Derivados Ltda.,Nenhum,São Paulo,"Rua Barretos, 251, Mooca, São Paulo, São Paulo",7,140.0,-23.5631412,-46.5851009,30,0
+3740665,193016,01444210000484,Comercio De Alimentos Alves E Farias Ltd,Rede Parana,Carapicuíba,"Estrada Do Copiuva, 1985, Vila Da Oportunidade, Carapicuíba, São Paulo",72,1440.0,-23.5539916,-46.8262051,30,0
+3740666,193014,01444210000301,Comercio De Alimentos Alves E Farias Ltd,Rede Parana,São Paulo,"Avenida Carlos Lacerda, 2170, Pirajussara, São Paulo, São Paulo",7,140.0,-23.5475,-46.63611,30,0
+3740667,192848,10527727000185,Schneider & Coinaski Ltda - Me,Nenhum,Itu,"Avenida Dr. Ermelindo Maffei, 734, Sao Luiz, Itu, São Paulo",6,120.0,-23.2645744,-47.2828289,30,0
+3740668,204997,25127914000149,Ana Vitoria A. Sabino Açougue E Merc.Eir,Nenhum,São Paulo,"Rua Augusto Carlos Bauman, 980, Itaquera, São Paulo, São Paulo",20,400.0,-23.5336081,-46.4495633,30,0
+3740669,9535,06263725000159,T.F.Miranda Mercado - Me,Nenhum,Itapecerica da Serra,"Avenida Maranhao, 235, Parque Paraíso, Itapecerica Da Serra, São Paulo",15,275.0,-23.7106842,-46.8581897,30,0
+3740670,193006,01444210000212,Comercio De Alimentos Alves E Farias Ltd,Rede Parana,SAO PAULO,"Rua Joao Da Cruz E Sousa, 5, Jardim Das Rosas, São Paulo, São Paulo",25,500.0,-23.597507,-46.430098,30,0
+3740671,194615,01444210001103,Comercio De Alimentos Alves E Farias Ltd,Rede Parana,Itapevi,"Rodovia Engenheiro Rene Benedito Da Silva, 668, Sao Joao, Itapevi, São Paulo",7,130.0,-23.54889,-46.93417,30,0
+3740672,194614,01444210001294,Comercio De Alimentos Alves E Farias Ltd,Rede Parana,Jandira,"Avenida Carmine Gragnano, 798, Centro, Jandira, São Paulo",19,360.0,-23.5266948,-46.8948766,30,0
+3740674,215099,01444210001456,Comercio De Alimentos Alves E Farias Ltd,Rede Parana,Mogi das Cruzes,"Rua Dolores De Aquino, 1925, Jundiapeba, Mogi Das Cruzes, São Paulo",92,1765.0,-23.5453399,-46.2583235,30,0
+3740675,199344,26208965000249,Yago Hortifruti Ltda,Rede Sitio Verde,São José dos Campos,"Avenida Doutor Adhemar De Barros, 563, Jd.Sao Dimas, São José Dos Campos, São Paulo",11,220.0,-23.1953942,-45.8909157,30,0
+3740676,192945,26208965000168,Yago Hortifruti Eireli - Epp,Rede Sitio Verde,São José dos Campos,"Avenida Cassiano Ricardo, 401, Pq. Residencial Aquarius, São José Dos Campos, São Paulo",13,255.0,-23.2157301,-45.9094568,30,0
+3740677,199344,26208965000249,Yago Hortifruti Ltda,Rede Sitio Verde,São José dos Campos,"Avenida Doutor Adhemar De Barros, 563, Jd.Sao Dimas, São José Dos Campos, São Paulo",2,36.0,-23.1953942,-45.8909157,30,0
+3740678,210471,08944502000425,Examine Supermercados Ltda,Examine,Rio Claro,"Avenida 24A, 303, Vila Alema, Rio Claro, São Paulo",16,290.0,-22.41139,-47.56139,30,0
+3740679,209450,49184166000102,Lcb Comercio De Produtos Alimenticios Lt,Nenhum,São Paulo,"Rua Tito Oliani, 1010, Sao Joao Climaro, São Paulo, São Paulo",8,160.0,-23.5475,-46.63611,30,0
+3740680,209730,49265831000184,Fazenda Show Restaurante Ltda,Divino Fogão,Caieiras,"Avenida Das Nacoes Unidas, 13947, Vila Gertrudes, São Paulo, São Paulo",4,75.0,-23.34969,-46.74632,30,0
+3740681,731,58607052000100,Casa De Carnes Faraco Ltda,Nenhum,São Paulo,"Avenida Do Vaticano, 39, Jd João Xxiii, São Paulo, São Paulo",16,305.0,-23.5475,-46.63611,30,0
+3740682,206135,03685122000157,Casa De Carnes Cocaia D.B. Ltda,Nenhum,São Paulo,"Rua Francisco Inacio Solano, 445, Cantinho Do Ceu, São Paulo, São Paulo",11,220.0,-23.7424958,-46.6618167,30,0
+3740684,201016,27504815000164,Bar E Restaurante Braseiro Do Sul Ltda,Nenhum,São Paulo,"Avenida Santa Marina, 2459, Vila Albertina, São Paulo, São Paulo",4,80.0,-23.5475,-46.63611,30,0
+3740685,209977,18716429000498,Rede Compremais Supermercado Ltda,Nenhum,São Paulo,"Rua Edna Ferber, 359, Parque Belem, São Paulo, São Paulo",3,60.0,-23.4650898,-46.6842514,30,0
+3740686,3731,50948371000178,Irmãos Boa Ltda,Irmãos Boa,Jundiaí,"Rua Marilia, 60, Vila Hortolandia, Jundiaí, São Paulo",6,120.0,-23.169235,-46.909441,30,0
+3740687,6836,50948371000410,Irmãos Boa  Ltda,Irmãos Boa,Jundiaí,"Avenida Dos Imigrantes Italianos, 1973, Colonia, Jundiaí, São Paulo",21,405.0,-23.1882135,-46.8563349,30,0
+3740688,13006,50948371000682,Irmãos Boa  Ltda,Irmãos Boa,Cabreúva,"Rua Maranhao, 256, Jacaré, Cabreúva, São Paulo",13,260.0,-23.2495822,-47.0561778,30,0
+3740689,215671,01444210001537,Comercio De Alimentos Alves E Farias Ltd,Rede Parana,Ferraz de Vasconcelos,"Rua Otavio Rodrigues Barbosa, 219, Vila Romanopolis, Ferraz De Vasconcelos, São Paulo",98,1920.0,-23.541155,-46.365145,30,0
+3740690,192874,02244743000132,Casa De Carnes Conegero Ltda,Nenhum,Votorantim,"Avenida Matheus Conegero, 170, Pq. Bela Vista, Votorantim, São Paulo",9,174.0,-23.5424384,-47.4636011,30,0
+3740691,2751,63014377000381,Casas Negreiro Ltda,Negreiros,São Paulo,"Avenida Nagib Farah Maluf, 100, Conj.Jose Bonifacio/Cohab Ii, São Paulo, São Paulo",62,1230.0,-23.5386385,-46.4308871,30,0
+3740692,14263,63014377000462,Casas Negreiro Ltda,Negreiros,São Paulo,"Avenida Ragueb Chohfi, 7001, Jardim Tres Marias, São Paulo, São Paulo",120,2400.0,-23.5475,-46.63611,30,0
+3740693,14268,07128576000188,Supermercado Trialba Ltda,Negreiros,São Paulo,"Rua Aricá -  Mirim, 63, Vila São Francisco, São Paulo, São Paulo",37,735.0,-23.5245532,-46.4917133,30,0
+3740694,14266,07128576000269,Supermercado Trialba Ltda,Negreiros,São Paulo,"Avenida Renata, 346, Chacara Belenzinho, São Paulo, São Paulo",21,420.0,-23.5733062,-46.5413423,30,0
+3740695,14267,07128576000340,Supermercado Trialba Ltda,Negreiros,São Paulo,"Rua Agenor De Barros, 211, Vila Ponte Rasa, São Paulo, São Paulo",83,1645.0,-23.5088206,-46.4894631,30,0
+3740696,197047,07128576000501,Supermercado Trialba Ltda,Negreiros,São Paulo,"Avenida Arquiteto Vilanova Artigas, 132, Conj Habit. Teotonio Vilela, São Paulo, São Paulo",112,2230.0,-23.6133707,-46.5009539,30,0
+3740697,207890,07128576000692,Supermercado Trialba Ltda,Negreiros,São Paulo,"Avenida Cangaiba, 1659, Cangaiba, São Paulo, São Paulo",71,1415.0,-23.5087736,-46.5389309,30,0
+3740700,14087,10854452000194,Hortifruti Prainha Ltda - Me,Nenhum,São Paulo,"Estrada Da Ligação, 281, Jd.Monte Verde, São Paulo, São Paulo",4,80.0,-23.5475,-46.63611,30,0
+3740701,14087,10854452000194,Hortifruti Prainha Ltda - Me,Nenhum,São Paulo,"Estrada Da Ligação, 281, Jd.Monte Verde, São Paulo, São Paulo",13,260.0,-23.5475,-46.63611,30,0
+3740702,211053,07128576000773,Supermercado Trialba Ltda,Negreiros,São Paulo,"Avenida Ragueb Chohfi, 4831, Jardim Iguatemi, São Paulo, São Paulo",57,1130.0,-23.5944434,-46.4386057,30,0
+3740703,194781,07128576000420,Supermercado Trialba Ltda,Negreiros,São Paulo,"Avenida Vereador Abel Ferreira, 2022, Chacara Mafalda, São Paulo, São Paulo",27,540.0,-23.5475,-46.63611,30,0
+3740704,1037,50974732000150,Cooperativa Consumo Coopercica,Coopercica,Jundiaí,"Rua Joao Ferrara, 233, Jd. Cica, Jundiaí, São Paulo",53,1030.0,-23.2054072,-46.8829113,30,0
+3740705,1044,50974732000231,Cooperativa De Consumo Coopercica,Coopercica,Jundiaí,"Rua Romeu Seckler Machado, 105, Parque Eloy Chaves, Jundiaí, São Paulo",46,895.0,-23.18639,-46.88417,30,0
+3740706,8637,50974732000401,Cooperativa De Consumo Coopercica,Coopercica,Jundiaí,"Rua Hisaschi Nagaoka, 3595, Jardim São Vicente, Jundiaí, São Paulo",59,1150.0,-23.1451635,-46.9157263,30,0
+3740707,1038,50974732000312,Cooperativa De  Consumo Coopercica,Coopercica,Jundiaí,"Avenida Antônio Frederico Ozanan, 6001, Vila Rio Branco, Jundiaí, São Paulo",36,690.0,-23.172492,-46.8916714,30,0
+3740708,14466,50974732000584,Cooperativa De Consumo Coopercica,Coopercica,Campo Limpo Paulista,"Rua Maria José Rodrigues, 90, Jd.Santa Lucia, Campo Limpo Paulista, São Paulo",18,355.0,-23.2104628,-46.7946342,30,0
+3740709,196986,50974732000746,Cooperativa De Consumo Coopercica,Coopercica,Várzea Paulista,"Avenida Duque De Caxias, 2395, Jd Promeca, Várzea Paulista, São Paulo",18,355.0,-23.21139,-46.82833,30,0
+3740710,204187,50974732000827,Cooperativa De Consumo Coopercica,Coopercica,Várzea Paulista,"Avenida Fernao Dias Paes Leme, 2211, Centro, Várzea Paulista, São Paulo",50,975.0,-23.21139,-46.82833,30,0
+3740711,204939,50974732000908,Cooperativa De Consumo Coopercica,Coopercica,Itupeva,"Avenida Jose Tonoli, 336, Centro, Itupeva, São Paulo",66,1270.0,-23.15306,-47.05778,30,0
+3740712,187252,50948371000763,Irmãos Boa Ltda,Irmãos Boa,Jundiaí,"Avenida Osmundo Dos Santos Pellegrini, 1000, Recanto Quarto Centenario, Jundiaí, São Paulo",5,100.0,-23.1837581,-46.9154477,30,0
+3740713,191468,50948371000925,Irmãos Boa Ltda,Irmãos Boa,Várzea Paulista,"Avenida Bertioga, S/N, Vila Tupi, Várzea Paulista, São Paulo",24,480.0,-23.220093,-46.8402839,30,0
+3740714,187254,50948371001069,Irmãos Boa  Ltda,Irmãos Boa,Jundiaí,"Rua Bom Jesus De Pirapora, 2881, Vila Rami, Jundiaí, São Paulo",12,235.0,-23.2200889,-46.8790223,30,0
+3740715,187255,50948371001140,Irmãos Boa Ltda,Irmãos Boa,Francisco Morato,"Rua Demerson Gomes Romano, 386, Centro, Francisco Morato, São Paulo",15,300.0,-23.2868804,-46.7419955,30,0
+3740716,195254,50948371001301,Irmãos Boa Ltda,Irmãos Boa,Sorocaba,"Rua Coronel Nogueira Padilha, 2112, Vila Hortencia, Sorocaba, São Paulo",6,120.0,-23.50167,-47.45806,30,0
+3740717,203432,34639727000135,Michel Richard Magalhaes Fragoso,Nenhum,Embu das Artes,"Rua Orlandia, 47, Parque Luiza, Embu Das Artes, São Paulo",7,140.0,-23.64889,-46.85222,30,0
+3740718,203911,28833405000120,Ikd Hortifruti Ltda,Nenhum,Sorocaba,"Rua Barao De Tatui, 1368, Jardim Vergueiro, Sorocaba, São Paulo",3,60.0,-23.50167,-47.45806,30,0
+3740720,12346,00472541000112,Casa De Carnes Alexandra Ltda - Me,Nenhum,Cubatão,"Avenida Nossa Senhora Da Lapa, 22, Vila Nova, Cubatão, São Paulo",5,100.0,-23.895,-46.42528,30,0
+3740721,195224,50948371001492,Irmãos Boa Ltda,Irmãos Boa,Jundiaí,"Rua Jorge Zolner, 95, Centro, Jundiaí, São Paulo",5,100.0,-23.18639,-46.88417,30,0
+3740722,195312,50948371001573,Irmãos Boa Ltda,Irmãos Boa,Jundiaí,"Avenida Doutor Olavo Guimaraes, 253, Vila Arens, Jundiaí, São Paulo",5,100.0,-23.1971918,-46.8745837,30,0
+3740723,196617,50948371001654,Irmãos Boa Ltda,Irmãos Boa,Jundiaí,"Rua Do Retiro, 925, Vila Virginia, Jundiaí, São Paulo",6,115.0,-23.1865399,-46.8985646,30,0
+3740725,11448,04505926000190,Fernando De Amorim Ramos,Nenhum,Osasco,"Rua Campina Grande, 383, Rochdale, Osasco, São Paulo",26,510.0,-23.5149297,-46.7782849,30,0
+3740726,214352,57632938000141,Tobemar Comercio De Alimentos Ltda,Nenhum,São Paulo,"Estrada Campo Limpo, Do, 6433, Pirajussara, São Paulo, São Paulo",10,200.0,-23.5475,-46.63611,30,0
+3740727,202325,49949472000427,Supermercado Varandas Ltda,Rede Litoral,Santos,"Rua Pio Xii, 82, Saboo, Santos, São Paulo",15,290.0,-23.932779,-46.3468543,30,0
+3740728,198563,01128426000198,Embrare Refeiçoes E Serviços Ltda,Nenhum,Poá,"Avenida Pref. Jorge Francisco Correia Allen, 575, Centro, Poá, São Paulo",13,260.0,-23.52806,-46.34472,30,0
+3740729,2753,63014377000110,Casas Negreiro Ltda,Negreiros,São Paulo,"Avenida Itaquera, 6735, Cidade Lider, São Paulo, São Paulo",5,100.0,-23.5542277,-46.4832701,30,0
+3740730,213493,61614467000116,Casa De Lanches New Dog Ltda,Nenhum,São Paulo,"Rua Joaquim Floriano, 254, Itaim Bibi, São Paulo, São Paulo",5,100.0,-23.5838463,-46.672325,30,0
+3740732,214605,50948371002030,Irmãos Boa Ltda,Irmãos Boa,Jundiaí,"Avenida Quatorze De Dezembro, 2333, Vila Mafalda, Jundiaí, São Paulo",9,180.0,-23.2119361,-46.8743426,30,0
+3740733,214606,50948371002200,Irmãos Boa Ltda,Irmãos Boa,Jundiaí,"Rodovia Vereador Geraldo Dias, S/N, Parque Centenario, Jundiaí, São Paulo",15,300.0,-23.1450553,-46.9148271,30,0
+3740734,212074,50948371002383,Irmaos Boa Ltda,Irmãos Boa,Valinhos,"Rua Treze De Maio, 1050, Vila Olivo, Valinhos, São Paulo",6,120.0,-22.9703943,-46.9959798,30,0
+3740735,186745,08237673000171,Tatiane Fernandes Santos Minimercado,Nenhum,Sorocaba,"Rua Guilherme Briviglieri, 203, Pq. Vitoria Regia, Sorocaba, São Paulo",8,160.0,-23.4262169,-47.4507064,30,0
+3740736,214391,57096481000106,57.096.481 Rodrigo Oliveira De Sousa,Nenhum,Itapevi,"Rua Benedito Araujo Novaes, 552, Jardim Paulista, Itapevi, São Paulo",9,180.0,-23.5539135,-46.9384916,30,0
+3740737,13297,09095659000143,Mercado Ciriaco Ltda Me.,Nenhum,Osasco,"Rua Paulo Soares, 509, Jardim Santo Antonio, Osasco, São Paulo",8,160.0,-23.5583958,-46.79401,30,0
+3740738,195198,06975493000323,Mercado Villas Eireli,Nenhum,Osasco,"Rua Professora Adelaide Escobar Bueno, 397, Munhoz Junior, Osasco, São Paulo",10,200.0,-23.4982773,-46.8038889,30,0
+3740739,201474,11628012000181,Açougue Das Meninas Dalcin Ltda,Nenhum,Cajamar,"Rua Jose Luiz Leme Maciel, 68, Jordanesia, Cajamar, São Paulo",6,120.0,-23.335462,-46.8284617,30,0
+3740740,7297,47663349000177,Mercadinho Coqueiro Ltda,Nenhum,São Paulo,"Avenida Rodrigues Montemor, 253, Americanópolis, São Paulo, São Paulo",6,120.0,-23.5475,-46.63611,30,0
+3740742,205523,21432626000147,Rotisserie E Assados Castro Junior,Nenhum,São Paulo,"Avenida Professor Castro Junior, 363, Vila Sabrina, São Paulo, São Paulo",7,140.0,-23.4957893,-46.5757236,30,0
+3740743,10507,58747692000116,Sup Vila Rica Plus Ltda,Arcos,Diadema,"Rua Luiz De Vasconcelos, 127, Jardim Marilen, Diadema, São Paulo",36,705.0,-23.68611,-46.62278,30,0
+3740744,201322,34906898000183,Rosane Da Silva Vieira 19290074850,Nenhum,Carapicuíba,"Rua Ofelia Alves Ferreira, 60, Jardim Yaya, Carapicuíba, São Paulo",8,160.0,-23.5564628,-46.8342566,30,0
+3740745,192589,56242795000107,Casa De Carnes Vilamar - Epp,Nenhum,Sorocaba,"Rua Coronel Nogueira Padilha, 1273, Vila Hortencia, Sorocaba, São Paulo",35,700.0,-23.50167,-47.45806,30,0
+3740746,208611,50031075000108,M E Comercio Ltda,Nenhum,Praia Grande,"Rua Dr. Vicente De Carvalho, 120, Ocian, Praia Grande, São Paulo",5,100.0,-24.00583,-46.40278,30,0
+3740747,214940,58284814000185,Familia Ii Supermercado Ltda,Nenhum,Guarulhos,"Praça Nossa Senhora Aparecida, 275, Jardim Vila Galvao, Guarulhos, São Paulo",10,200.0,-23.4661663,-46.5594452,30,0
+3740748,997,67303602000199,Ruth Pereira De Lima Laticinios Me,Nenhum,Barueri,"Avenida Capitão Francisco Cesar, 1217, Engenho Novo, Barueri, São Paulo",7,140.0,-23.51056,-46.87611,30,0
+3740749,5390,43017631000207,Rosima Com.De Doces E Salgados Finos Ltd,Nenhum,São Paulo,"Avenida Brigadeiro Luis Antonio, 3300, Jd.Paulista, São Paulo, São Paulo",5,100.0,-23.5742361,-46.6560882,30,0
+3740750,177568,01580239000140,Edmilson G.De Oliveira Mercado Ltda,Nenhum,São Paulo,"Avenida Dos Latinos, 738, Jardim Santa Teresinha, São Paulo, São Paulo",19,370.0,-23.5728247,-46.4987755,30,0
+3740751,12830,09332021000189,Casa De Carnes Carvalho & Fernandes Ltda,Nenhum,São Paulo,"Rua Paulo Andrighetti, 470, Pari, São Paulo, São Paulo",20,400.0,-23.5263346,-46.6061665,30,0
+3740752,208779,40455382000162,Emporio & Adega Badarosca Ltda,Nenhum,Mairiporã,"Avenida Pietro Petri, 382, Terra Preta, Mairiporã, São Paulo",4,80.0,-23.2613941,-46.5886899,30,0
+3740753,214353,41981587000144,Circo Da Pizza Ltda,Nenhum,São Paulo,"Avenida Otto Baumgart, 27, Vila Guilherme, São Paulo, São Paulo",3,60.0,-23.511968,-46.6159879,30,0
+3740755,212592,53182851000169,Bdml2 Comercio Ltda,Nenhum,Santana de Parnaíba,"Rua Capricornio, 667, Parque Santana, Santana De Parnaíba, São Paulo",36,710.0,-23.4772118,-46.8925865,30,0
+3740756,208532,49555763000198,49.555.763 Valdir Rodrigues,Nenhum,Osasco,"Rua Jarbas Salles D Avila, 438, Jardim D'Avila, Osasco, São Paulo",7,140.0,-23.5032364,-46.7671773,30,0
+3740757,2438,03492086000105,A.E.B Raposo & Cia Ltda,Nenhum,Osasco,"Avenida Dos Autonomistas, 451, Vl.Yara, Osasco, São Paulo",9,180.0,-23.5267853,-46.7961639,30,0
+3740758,208151,48922738000132,Central Carnes Aj Ltda,Nenhum,Cajati,"Avenida Dr. Fernando Costa, 282, Centro, Cajati, São Paulo",12,240.0,-24.73611,-48.12278,30,0
+3740759,13478,09658503000123,Eliane Cristina Fukunaga Araujo Minimerc,Nenhum,Cananéia,"Avenida Miguel De Araujo, 182, Porto Cubatão, Cananéia, São Paulo",6,120.0,-24.97232,-47.94529,30,0
+3740760,162283,05776528000170,J. M. Lisboa Minimercado - Me,Nenhum,Pariquera-Açu,"Rua Vereador Aecio Gauglitz, 261, Vila Palmira, Pariquera-Açu, São Paulo",18,360.0,-24.7156367,-47.8735194,30,0
+3740761,207600,68278050000179,Avicola E Laticinios Moreninho Ltda,Nenhum,São Paulo,"Avenida Milton Da Rocha, 291, Vila Sabrina, São Paulo, São Paulo",6,120.0,-23.489062,-46.5744038,30,0
+3740762,215285,59476330000109,Frango X Rotisseria Ltda,Nenhum,Guarulhos,"Rua Conego Valadao, 1143, Gopouva, Guarulhos, São Paulo",12,216.0,-23.4737032,-46.5448854,30,0
+3740763,5484,04728243000100,Claudemir De Mattos Balarote - Me,Nenhum,Itu,"Rua Maestro Ezequias Nardy, 39, Jd. Padre Bento, Itu, São Paulo",5,100.0,-23.26417,-47.29917,30,0
+3740764,13327,09140507000115,Casa Carnes Flor Da Vila Mariana Ltda,Nenhum,São Paulo,"Rua Domingos De Morais, 286, Vila Mariana, São Paulo, São Paulo",17,340.0,-23.5796817,-46.6404127,30,0
+3740765,9778,02255118000196,Center Carnes Rocha Amorin Ltda-Me,Nenhum,Barueri,"Rua Da Prata, 349, Jardim Dos Camargos, Barueri, São Paulo",5,100.0,-23.5025874,-46.8674979,30,0
+3740766,208490,14392646000176,Bikus Rotisserie E Massas Ltda,Nenhum,Lavínia,"Rua Miguel Rodrigues, 62, Vila Madalena, São Paulo, São Paulo",17,306.0,-21.06667,-50.93333,30,0
+3740767,204239,40915494000159,Ana Laura Tavernaro Fraletti - Refeições,Nenhum,Sorocaba,"Rua Romeu Do Nascimento, 235, Jardim Portal Da Colina, Sorocaba, São Paulo",4,80.0,-23.518594,-47.4617053,30,0
+3740768,213615,55599022000101,S Ortega Com.Produtos Alimenticios Slu L,Nenhum,Barueri,"Alameda Colibri, 64, Morada Dos Passaros, Barueri, São Paulo",1,20.0,-23.4953736,-46.9513761,30,0
+3740769,210032,31740747000100,Carla Ferreira Maciano,Rede Don,Osasco,"Rua Angelo Alberto Nesti, 216, Jardim Helena, Osasco, São Paulo",6,120.0,-23.5325,-46.79167,30,0
+3740770,14048,10655452000165,Adneusa Da Paixão Me,Nenhum,Barueri,"Rua Americo Vespucio, 12, Parque Imperial, Barueri, São Paulo",11,210.0,-23.4804833,-46.8052982,30,0
+3740771,11071,46496477000100,Panificadora Pompéia Ltda Epp,Nenhum,Praia Grande,"Avenida Irmãos Adorno, 449, Sítio Do Campo, Praia Grande, São Paulo",15,300.0,-24.00583,-46.40278,30,0
+3740772,200008,34269810000160,Casa Carnes Zago Eireli,Nenhum,Sorocaba,"Rua Jose Luiz Flaquer, 291, Eden, Sorocaba, São Paulo",6,120.0,-23.4175869,-47.4157972,30,0
+3740774,183605,02459770000122,Otacilio Ferreira S.Mogi Das Cruzes,Nenhum,Mogi das Cruzes,"Rua Dolores De Aquino, 640, Jundiapeba, Mogi Das Cruzes, São Paulo",7,140.0,-23.54629,-46.2499707,30,0
+3740775,1211,96584404000149,J.C.A. Mendes E Cia Ltda - Me,Nenhum,Itu,"Praça Da Independencia, 31, Centro, Itu, São Paulo",3,60.0,-23.2646325,-47.2972233,30,0
+3740776,215729,47484995000258,Atalaia Comercio Atacadista De Produtos ,Nenhum,São Vicente,"Rua Odair Muller De Azevedo Marques, 141, Vila Margarida, São Vicente, São Paulo",14,280.0,-23.96306,-46.39194,30,0
+3740777,5953,61621322000142,Casa De Carnes Geraldi Ltda,Nenhum,Itaquaquecetuba,"Rua 15 De Novembro, 735, Centro, Pedreira, São Paulo",7,133.0,-23.4917837,-46.3435262,30,0
+3740778,5579,00363103000116,Casa De Carnes Palhares Ltda Me,Nenhum,São Paulo,"Rua Benedito Egídio Barbosa, 11, Vila Brasilândia, São Paulo, São Paulo",15,300.0,-23.4598445,-46.6986945,30,0
+3740779,1185,60186376000598,Mercadinho Piratininga Ltda,Piratininga,Campos do Jordão,"Avenida Doutor Januario Miraglia, 608, Vila Jaguaribe, Campos Do Jordão, São Paulo",16,320.0,-22.7437125,-45.5964598,30,0
+3740780,940,60186376000164,Mercadinho Piratininga Ltda,Piratininga,São José dos Campos,"Rua Itororó, 74, Jd. Paulista, São José Dos Campos, São Paulo",12,240.0,-23.17944,-45.88694,30,0
+3740781,1602,57263246000173,Com. Prods. Aliment. Piratininga Ltda.,Piratininga,São José dos Campos,"Avenida Cassiopeia, 591, Jardim Satelite, São José Dos Campos, São Paulo",2,40.0,-23.2298571,-45.8861203,30,0
+3740782,13865,62568589000186,Supermercados Recanto Da Economia Ltda,Nenhum,São Paulo,"Avenida Prof. Fco . Morato, 946, V Sonia, São Paulo, São Paulo",13,234.0,-23.5475,-46.63611,30,0
+3740783,202675,39648096000134,Irmãos Lima Casa De Carnes Ltda,Nenhum,Piracaia,"Avenida Francisco De Almeida, 208, Pouso Alegre, Piracaia, São Paulo",5,100.0,-23.0492139,-46.343872,30,0
+3740784,200384,34486246000137,Hc Churrascaria E Pizzaria Ltda,Nenhum,São Paulo,"Rua Alcantara, 805, Vila Maria, São Paulo, São Paulo",27,540.0,-23.5227677,-46.5924086,30,0
+3740785,206217,47484995000177,Atalaia Comercio Atacadista De Produtos ,Nenhum,São Vicente,"Avenida Quarentenario, 310, Jardim Irma Dolores, São Vicente, São Paulo",54,1080.0,-23.96306,-46.39194,30,0
+3740789,210494,51811333000131,Supermercado Oliveira Comercio De Alimen,Nenhum,Carapicuíba,"Rua Maria Candida Teixeira Lacerda, 615, Vila Veloso, Carapicuíba, São Paulo",5,100.0,-23.52272,-46.835,30,0
+3740790,10425,07188408000188,Supermercado Irmãos Costa Ltda,Nenhum,Praia Grande,"Rua Itibere Da Cunha, 159, Samambaia, Praia Grande, São Paulo",17,340.0,-24.0327245,-46.5256038,30,0
+3740791,207666,42210098000151,42.210.098 Paulo Rogerio Da Corte Ferrei,Nenhum,Santos,"Rua Santos Dumont, 205, Estuario, Santos, São Paulo",14,270.0,-23.96083,-46.33361,30,0
+3740792,212530,00063960058018,Wmb Supermercados Do Brasil Ltda,Sam`S,São Paulo,"Avenida Engenheiro George Corbisier, 273, Jabaquara, São Paulo, São Paulo",10,200.0,-23.6392403,-46.6419503,30,0
+3740793,3591,47772041000160,Supermercado Babá Ltda,Nenhum,Peruíbe,"Avenida 24 De Dezembro, 560, Estação, Peruíbe, São Paulo",19,360.0,-24.32,-46.99833,30,0
+3740794,210871,52307317000179,Familia Supermercados 1 Ltda,Nenhum,Cotia,"Rua Batista Cepelos, 25, Centro, Cotia, São Paulo",5,100.0,-23.60389,-46.91917,30,0
+3740795,215726,57825862000170,Bar E Restaurante Gauchos Do Plaza Polo ,Nenhum,São Paulo,"Rua Julio Ribeiro, 243, Bras, São Paulo, São Paulo",11,215.0,-23.5372628,-46.6197338,30,0
+3740796,194480,26823515000185,Hortifruti Novo Amanhecer Ltda,Nenhum,Paraibuna,"Rua Santo Antonio, 569, Bela Vista, São Paulo, São Paulo",25,500.0,-23.3731639,-45.6717908,30,0
+3740797,189287,05662292000141,Casa De Carnes Novo Amanhecer Ltda Me,Nenhum,Paraibuna,"Rua Santo Antonio, 543, Bela Vista, São Paulo, São Paulo",25,500.0,-23.3731639,-45.6717908,30,0
+3740799,205529,40131676000724,Comercial Benz Eireli,Nenhum,Cotia,"Rua Vicente Celestino, 184, Parque Mirante Da Mata, Cotia, São Paulo",14,280.0,-23.6176627,-46.9548532,30,0
+3740800,205534,40131676000643,Comercial Benz Eireli,Nenhum,Cotia,"Estrada Da Agua Espraiada, 2713, Chac.Tropical (Caucaia Alto), Cotia, São Paulo",24,480.0,-23.60389,-46.91917,30,0
+3740801,205533,40131676000562,Comercial Benz Eireli,Nenhum,Ibiúna,"Avenida Nossa Senhora Do Carmo, 2058, Carmo Messias, Ibiúna, São Paulo",19,380.0,-23.741308,-47.0546442,30,0
+3740802,194760,08989553000120,Canaa Com.De Frios E Pães Ltda - Me,Nenhum,São Bernardo do Campo,"Rua Casper Libero, 491, Pauliceia, São Bernardo Do Campo, São Paulo",60,1200.0,-23.6673537,-46.5941037,30,0
+3740804,205532,40131676000481,Comercial Benz Eireli,Nenhum,Cotia,"Rua Quinze De Piracicaba, 19, Jardim Sandra, Cotia, São Paulo",8,160.0,-23.60389,-46.91917,30,0
+3740805,208038,46651152000155,Mais Que Frango - Ltda,Nenhum,Santos,"Avenida Doutor Bernardino De Campos, 446, Campo Grande, Santos, São Paulo",26,492.0,-23.9608123,-46.3383508,30,0
+3740806,201409,50247022000471,Public Com Atacadista E Varejista De Ali,Pedreira,São Paulo,"Avenida Assembleia, 16, Jardim Miriam, São Paulo, São Paulo",30,600.0,-23.5475,-46.63611,30,0
+3740807,202241,38331173000165,Carlos Valença Do Nsacimento,Nenhum,São Paulo,"Rua Duilio, 636, Agua Branca, São Paulo, São Paulo",8,160.0,-23.5254777,-46.6931616,30,0
+3740808,204209,40131676000210,Comercial Benz Eireli,Nenhum,Vargem Grande do Sul,"Rua Jose Manoel De Almeida, 669, Jd. Europa, Vargem Grande Paulista, São Paulo",10,200.0,-21.83222,-46.89361,30,0
+3740809,156981,08815800000172,N & N Comercio De Alimentos Ltda,Nenhum,Cajamar,"Avenida Tenente Marques, 4131, Ipes (Polvilho), Cajamar, São Paulo",5,100.0,-23.4094528,-46.8418675,30,0
+3740810,8905,05455926000195,Irmãos Suto Comércio De Alimentos Ltda,Nenhum,São Paulo,"Avenida Mascote, 429, Vila Mascote, São Paulo, São Paulo",8,160.0,-23.6486173,-46.6656941,30,0
+3740811,205265,46321247000100,Casa De Carnes Josilene Aguiar,Nenhum,Rio Grande da Serra,"Estrada Fazenda Sao Joaquim, 29, Vila Ota, Rio Grande Da Serra, São Paulo",7,134.0,-23.747989,-46.3746945,30,0
+3740812,156401,11028764000101,Minoru Interlagos Alimentos Ltda,Nenhum,São Paulo,"Avenida Gregorio Bezerra, 400, Jardim Iv Centenário, São Paulo, São Paulo",10,200.0,-23.7066222,-46.6876047,30,0
+3740813,165361,09326787000150,Mercado Pb Ltda - Me,Nenhum,Várzea Paulista,"Rua Bela Vista, 54, Jardim Prainha, São Paulo, São Paulo",6,120.0,-23.1979389,-46.8131823,30,0
+3740814,206253,08571723000233,Mercadinho Piratininga De Generos Alimen,Piratininga,São Bento do Sapucaí,"Rua Benedito Pereira Goulart, 282, Centro, São Bento Do Sapucaí, São Paulo",8,160.0,-22.68889,-45.73083,30,0
+3740815,10386,60186376000245,Mercadinho Piratininga Ltda,Piratininga,Paraibuna,"Avenida São Jose Dos Campos, 262, Centro, Paraibuna, São Paulo",8,160.0,-23.3831094,-45.6650429,30,0
+3740816,167082,08571723000152,Mercadinho Piratininga De Generos Alimen,Piratininga,Caraguatatuba,"Avenida José Herculano, 7040, Porto Novo, Caraguatatuba, São Paulo",6,120.0,-23.6946544,-45.4422191,30,0
+3740818,10478,56786452000286,Supermercado Alvorada De Itu Ltda,Alvorada,Itu,"Rua Adelio Pazinatto, 251, Jardim Aeroporto I, Itu, São Paulo",12,240.0,-23.26417,-47.29917,30,0
+3740819,205612,30891245000117,Santa Etelvina Mercado E Casa De Carnes,Nenhum,Iacanga,"Avenida Nascer Do Sol, 658, Conjunto Habitacional Santa Et, São Paulo, São Paulo",10,200.0,-22.0,-49.0,30,0
+3740820,204352,16849163000183,Andre Luiz Bertoldo Pavesi,Nenhum,Santo André,"Avenida Nacoes, Das, 1600, Parque Novo Oratorio, Santo André, São Paulo",4,80.0,-23.6408129,-46.4989662,30,0
+3740821,201881,36853255000144,Surana Apª Rodrigues De Campos 396625258,Nenhum,Boituva,"Rua Joao De Camargo, 352, Pq Res Novo Mundo, Boituva, São Paulo",18,350.0,-23.2628736,-47.6716318,30,0
+3740822,13239,03059651000145,Mercadinho Milenio´Os Ltda Me.,Nenhum,SAO PAULO,"Rua Lino Pinto Dos Santos, 22, Jardim Felicidade, São Paulo, São Paulo",5,100.0,-23.496228,-46.726804,30,0
+3740823,10708,04153386000122,Marcelo Urzedo De Oliveira Eldorado Epp,Nenhum,Eldorado,"Avenida Caraita, 194, Centro, Eldorado, São Paulo",45,900.0,-24.52,-48.10806,30,0
+3740826,207056,48398471000126,Supermercado Hip Carioca Ltda,Nenhum,São Paulo,"Rua Alvaro Do Vale, 412, Ipiranga, São Paulo, São Paulo",11,210.0,-23.5988682,-46.5962176,30,0
+3740829,202164,35480988000118,Comercial De Alim. Irmãos Chinen Ltda,Nenhum,São Paulo,"Avenida Deputado Emilio Carlos, 1129, Limão, São Paulo, São Paulo",8,160.0,-23.496022,-46.6772285,30,0
+3740831,12370,08796040000101,Cesarina Da Silva Vaz Epp,Nenhum,SAO ROQUE,"Via Rodovia Prefeito Quintino De Lima Km 6, Sn, Canguera, São Roque, São Paulo",4,80.0,-23.605259,-47.165196,30,0
+3740832,490,59470849000171,Bomfran Alimentos Ltda,Nenhum,São Paulo,"Avenida Do Café, 156, Vila Guarani, São Paulo, São Paulo",20,400.0,-23.635652,-46.6399683,30,0
+3740833,12000,56311970000162,Paulo Nakada Guarulhos-Epp,Nenhum,Guarulhos,"Rua Lagoa Seca, 660, Jardim Triunfo, Guarulhos, São Paulo",5,100.0,-23.41433,-46.4037699,30,0
+3740834,4717,04136296000123,Mercearia Jardim Belmejo Ltda Epp,Nenhum,Sorocaba,"Rua Andrelino Jose Pedroso, 181, Cerrado, Sorocaba, São Paulo",8,160.0,-23.50167,-47.45806,30,0
+3740835,3660,03911397000161,Mercadão Da Carne Abc Ltda,Nenhum,Diadema,"Avenida Lico Maia, 552, Cerraria, Diadema, São Paulo",22,440.0,-23.6992148,-46.6104069,30,0
+3740836,202239,35985385000178,Andrey Michel Fernandes Silva 4070125086,Nenhum,Osasco,"Avenida Jose Barbosa De Siqueira, 1026, Jardim Padroeira I, Osasco, São Paulo",9,175.0,-23.5490857,-46.8086203,30,0
+3740837,447,73108318000164,Mercado Rodraf Ltda,Arcos,Taboão da Serra,"Avenida Laurita Ortega Mari, 1973, Pq. Pinheiros, Taboão Da Serra, São Paulo",8,160.0,-23.6288874,-46.7824264,30,0
+3740838,204654,11174377000264,Rod Raf Center Conveniencias Ltda,Nenhum,São Paulo,"Rua Manicoba, 880, Jardim Umarizal, São Paulo, São Paulo",15,300.0,-23.5475,-46.63611,30,0
+3740839,392,02484039000157,Supermercado R.R. Ltda.,Arcos,Salto de Pirapora,"Rua Sebastião Ribeiro, 28, Jardim Sta.Lucia-Capão Redondo, São Paulo, São Paulo",6,120.0,-23.6629,-47.6209,30,0
+3740840,10889,07346827000109,Empório Menos Por Cento Ltda.,Arcos,São Paulo,"Rua Inacio Cervantes, 1199, Parque Ipê, São Paulo, São Paulo",6,120.0,-23.5937742,-46.7971128,30,0
+3740841,11978,08062286000141,Hortifruti Pomar Da Vila E Mercearia Ltd,Nenhum,São Paulo,"Rua Mourato Coelho, 1458, Pinheiros, São Paulo, São Paulo",7,140.0,-23.5554328,-46.6928898,30,0
+3740842,213397,55417128000147,Gf Alimentos Ltda,Nenhum,GUARULHOS,"Rua Rodrigo Fernandes, Lt 21, Jd. Santa Paula, Guarulhos, São Paulo",5,100.0,-23.46278,-46.53333,30,0
+3740843,6662,02427456000168,Divino Carnes Sorocaba Ltda - Epp,Nenhum,Sorocaba,"Rua Dr.Luiz Mendes De Almeida, 527, Largo Do Divino, Sorocaba, São Paulo",4,80.0,-23.50167,-47.45806,30,0
+3740844,751,45019692000158,Avicola E Mercearia Mariz Ltda,Nenhum,Diadema,"Avenida Brasilia, 581, Campanário, Diadema, São Paulo",6,110.0,-23.6682373,-46.6185895,30,0
+3740845,185498,47160957000169,Açougue Paraguassu Ltda Epp,Nenhum,São Paulo,"Rua Paraguacu, 544, Perdrizes, São Paulo, São Paulo",4,80.0,-23.5338774,-46.6672178,30,0
+3740846,391,03161687000135,Mercado D.F.C. Ltda.,Arcos,Jacareí,"Rua Carlos Magalhaes, 283, Vila Andrade, São Paulo, São Paulo",6,120.0,-23.21725,-46.00151,30,0
+3740847,6186,03328684000143,Mercado Juquicenter Ltda,Arcos,Juquitiba,"Rua José Antonio Nunes, 198, Jardim Henrique Boccolini, Juquitiba, São Paulo",13,255.0,-23.9333584,-47.0700715,30,0
+3740848,10946,04222351000106,Supermercado Umuarama Ltda,Arcos,São Paulo,"Avenida Engenheiro Heitor Antonio Eiras Garcia, 5985, Jardim Esmeralda, São Paulo, São Paulo",11,220.0,-23.5916859,-46.7749208,30,0
+3740849,157061,11174377000183,Rod Raf Center Conveniências Ltda,Arcos,Taboão da Serra,"Avenida Paulo Ayres, 470, Parque Pinheiros, Taboão Da Serra, São Paulo",13,260.0,-23.6204209,-46.7853307,30,0
+3740850,378,59418954000161,Supermercado Jardim Beatriz Ltda,Arcos,Taboão da Serra,"Rua Geraldo De Araujo Santos, 87, Jd.Beatriz, Taboão Da Serra, São Paulo",6,115.0,-23.6197473,-46.7716109,30,0
+3740851,186852,03328684000224,Mercado Juquicenter Ltda,Arcos,Juquitiba,"Rua Sebastiao Gregorini, 36, Centro, Juquitiba, São Paulo",13,260.0,-23.93167,-47.06833,30,0
+3740852,11292,07534919000104,Centro De Distrib.De Alimentos Pinheiros,Nenhum,São Paulo,"Rua Fernão Dias, 579, Pinheiros, São Paulo, São Paulo",6,120.0,-23.5663331,-46.6954353,30,0
+3740854,4554,01515690000184,Casa De Carnes Good Nelori Ltda Me,Nenhum,Osasco,"Rua Firmino Martins, 10, Metalúrgicos, Osasco, São Paulo",5,100.0,-23.5325,-46.79167,30,0
+3740855,6181,04659072000104,Gerson Ortega Feirante Me,Nenhum,São Paulo,"Rua Secundino Domingues, 70, Vila Prudente, São Paulo, São Paulo",28,545.0,-23.58845,-46.5798,30,0
+3740856,5265,60621992000104,Supermercado Yamauchi Ltda,Yamauchi,São Paulo,"Rua Conde Prates, 111, Mooca, São Paulo, São Paulo",5,100.0,-23.5664331,-46.5979351,30,0
+3740857,13689,08747539000110,Csp Sato Supermercado Ltda,Nenhum,São Paulo,"Avenida Raimundo Pereira De Magalhaes, 2541, Jardim Iris, São Paulo, São Paulo",5,100.0,-23.5475,-46.63611,30,0
+3740860,5264,60621992000520,Supermercado Yamauchi Ltda,Yamauchi,São Paulo,"Rua Isabel Dias, 47, Alto Da Mooca, São Paulo, São Paulo",8,155.0,-23.55801,-46.59508,30,0
+3740861,5253,60621992000872,Supermercado Yamauchi Ltda,Yamauchi,São Paulo,"Rua Manaias, 245, Vila Zelina, São Paulo, São Paulo",7,135.0,-23.5893222,-46.5760476,30,0
+3740862,13931,60621992001097,Super Mercado Yamauchi Ltda,Yamauchi,São Paulo,"Rua Jose Zappi, 57, Vila Prudente, São Paulo, São Paulo",10,190.0,-23.5806907,-46.5855316,30,0
+3740863,13941,60621992001178,Supermercado Yamauchi Ltda,Yamauchi,São Paulo,"Rua Das Heras, 470, Vila Lucia, São Paulo, São Paulo",5,100.0,-23.5475,-46.63611,30,0
+3740865,198263,60621992001330,Supermercado Yamauchi Ltda,Yamauchi,São Paulo,"Rua Azevedo Soares, 2700, Vila Gomes Cardim, São Paulo, São Paulo",8,155.0,-23.5482754,-46.563284,30,0
+3740866,212411,42828854000100,Reginaldo Dantas Da Silva Açougue Ltda,Nenhum,São Sebastião,"Avenida Jose Machado Rosa, 384, Itatinga, São Sebastião, São Paulo",28,574.0,-23.8103485,-45.4142886,30,0
+3740868,192883,61349528000165,Casa De Carnes Votorantim Ltda - Epp,Nenhum,Votorantim,"Avenida Octavio Augusto Rangel, 478, Jardim Toledo, Votorantim, São Paulo",11,220.0,-23.5256865,-47.4414441,30,0
+3740869,200697,26155319000180,Fernando De Brito Santana Minimercado,Nenhum,São Paulo,"Rua Sao Miguel Do Tapuio, 49, Jardim Peri, São Paulo, São Paulo",6,120.0,-23.4536671,-46.6639692,30,0
+3740871,206537,10362539000144,Lilian & Lidia Mercadinho Ltda,Nenhum,São Paulo,"Rua Rola Cabocla, 462, Vila Cosmopolita, São Paulo, São Paulo",9,180.0,-23.562324,-46.4221435,30,0
+3740872,215281,54498335000100,Mercado Ll Barbosa Ltda,Nenhum,São Paulo,"Avenida Alto Beni, 345, Vila Cosmopolita, São Paulo, São Paulo",10,200.0,-23.5475,-46.63611,30,0
+3740873,193679,26620235000170,Vinicius Matheus Carlino Arruda,Nenhum,Sorocaba,"Rua Doutor Aaltino Arantes, 1014, Jd Guadalupe, Sorocaba, São Paulo",24,475.0,-23.50167,-47.45806,30,0
+3740874,212575,16513941000169,Yuqun Avicola Ltda,Nenhum,São Paulo,"Estrada Dom Joao Neri, 2411, Jardim Bartira, São Paulo, São Paulo",4,80.0,-23.5475,-46.63611,30,0
+3740878,192524,10258603000141,H.M.F. Supermercados Ltda,Nenhum,Salto de Pirapora,"Rua Jequirituba, 2350, Jardim Castro Alves, São Paulo, São Paulo",10,200.0,-23.6879,-47.6693,30,0
+3740879,191763,19845936000141,Comercio Varej. Mercadorias 3 M Ltda,Nenhum,São Paulo,"Rua Alberto Borges Soveral, 09, Pq.Novo Santo Amaro, São Paulo, São Paulo",50,1000.0,-23.6924523,-46.7832438,30,0
+3740880,196361,10258603000494,H.M.F. Supermercados Ltda,Nenhum,São Paulo,"Rua Francisco Inacio Solano, 206, Cantinho Do Ceu, São Paulo, São Paulo",20,400.0,-23.7424958,-46.6618167,30,0
+3740881,202005,37577688000187,Sup. Correia Braga Eireli,Nenhum,Juquiá,"Estrada Guavirutuba, 1199, Vila Bom Jardim, São Paulo, São Paulo",15,300.0,-24.18333,-47.61667,30,0
+3740883,10392,06233707000124,A.R.Mult Carnes Com.Carnes E Derivados L,Nenhum,Paranapanema,"Avenida Sapopemba, 1304, Vila Leme, São Paulo, São Paulo",6,120.0,-23.38083,-48.73085,30,0
+3740884,214901,43792725000172,Marcos Douglas Comercio De Carnes Ltda,Nenhum,São Paulo,"Avenida Jardim Japao, 451, Jardim Brasil, São Paulo, São Paulo",6,120.0,-23.4861636,-46.5784059,30,0
+3740890,197000,31881926000167,Superm. Jandira Ltda,Nenhum,Atibaia,"Avenida Dom Pedro Ii, 70, Jardim Imperial, Atibaia, São Paulo",4,80.0,-23.144885,-46.5797268,30,0
+3740892,192234,24335023000115,Tamires Regina Batista B.Rodrigues,Nenhum,Barueri,"Rua Padre Cicero Romao Batista, 234, Parque Imperial, Barueri, São Paulo",7,135.0,-23.4886307,-46.8133445,30,0
+3740893,10580,60709417000150,Suave Sabor Doceria Ltda - Epp,Nenhum,São Paulo,"Rua Antonio Camardo, 700, Tatuapé, São Paulo, São Paulo",4,80.0,-23.5489677,-46.5607487,30,0
+3740894,207656,14785196000181,Izabel Dos Santos Pontes Varejista De Al,Nenhum,Eldorado,"Rua Dr. Nuno Silva, 220, Centro, Eldorado, São Paulo",5,95.0,-24.52,-48.10806,30,0
+3740895,202727,37021479000152,G.V. Comercio De Alimentos Ltda,Nenhum,Itu,"Rua Francisco Toscano, 10, Parque Das Rosas, Itu, São Paulo",5,100.0,-23.2798294,-47.298724,30,0
+3740897,542,47879101000148,Mercadinho Lodetti Ltda.,Nenhum,São Paulo,"Rua Pio Xi, 2360, Lapa, São Paulo, São Paulo",9,175.0,-23.5406793,-46.7169032,30,0
+3740898,954,43488980000126,Casa De Carnes Dalcin Ltda,Nenhum,Cajamar,"Rua Prefeito Antonio Garrido, 252, Jordanesia, Cajamar, São Paulo",20,400.0,-23.3362606,-46.8392834,30,0
+3740900,200833,10505296000580,Rede Plus Supermercados Ltda,Rede Plus,São Paulo,"Avenida Fiorelli Peccicacco, 323, Vila Fanton, São Paulo, São Paulo",4,80.0,-23.4047725,-46.7411747,30,0
+3740901,185962,10505296000156,Rede Plus Supermercados Ltda,Rede Plus,São Paulo,"Avenida Raimundo Pereira De Magalhaes, 12590, Pirituba, São Paulo, São Paulo",5,100.0,-23.4916534,-46.7322256,30,0
+3740902,185965,10505296000318,Rede Plus Supermercados Ltda,Rede Plus,Ourinhos,"Rua Thomaz Antonio Villani, 205, Vila Santa Maria, São Paulo, São Paulo",4,80.0,-23.00263,-49.89123,30,0
+3740903,830,02928162000110,Comercial De Al.Takara Mutinga Ltda.,Rede Plus,São Paulo,"Avenida Mutinga, 2426, Pirituba, São Paulo, São Paulo",5,100.0,-23.4855633,-46.7459339,30,0
+3740904,4441,03898783000160,Comercial Takara Pirituba Ltda,Rede Plus,São Paulo,"Avenida Elisio Teixeira Leite, 1095, Vila Brasilandia, São Paulo, São Paulo",5,100.0,-23.4570932,-46.714201,30,0
+3740905,205469,39781631000120,Emporio Brasilandia Ltda,Rede Plus,Bastos,"Rua Parapua, 1729, Itaberaba, São Paulo, São Paulo",4,80.0,-21.9278104,-50.7385646,30,0
+3740906,1716,43154996000100,Supermercado Pirituba Ltda.,Rede Plus,SAO PAULO,"Rua Dr. Heitor Do Nascimento, 30, Moinho Velho, São Paulo, São Paulo",4,80.0,-23.496633,-46.704758,30,0
+3740907,208533,49874382000171,49.874.382 Andre Luiz Ferreira Pinheiro,Nenhum,Osasco,"Rua Brilhante, 380, Jardim Mutinga, Osasco, São Paulo",8,160.0,-23.5051979,-46.7737941,30,0
+3740908,214329,51826705000101,Leonardo Athanasio Dos Santos Mercado,Nenhum,Santana de Parnaíba,"Avenida Moacir Da Silveira, 1035, Jardim Isaura, Santana De Parnaíba, São Paulo",4,80.0,-23.4798612,-46.8921049,30,0
+3740909,202957,07051513000170,Açougue Nova Vida Indaia Ltda,Nenhum,Indaiatuba,"Rua Seraphin Gilberto Candello, 1519, Jd Sao Conrado, Indaiatuba, São Paulo",7,140.0,-23.08842,-47.2119,30,0
+3740910,6939,04997638000108,Avícola Bip Frango Ltda,Nenhum,São Paulo,"Avenida Sapopemba, 7911, Jardim Adutora, São Paulo, São Paulo",12,235.0,-23.5968387,-46.5226399,30,0
+3740911,213789,22893182000100,Puro Sabor Serviços De Alimentação Ltda,Nenhum,Americana,"Rua Seriemas, Das, 550, Vila Mathiesen, Americana, São Paulo",11,220.0,-22.7679745,-47.3267778,30,0
+3740913,203540,96246822000126,Supermercado Carrefulvio Eireli,Nenhum,São Bento do Sapucaí,"Via De Acesso Rod.Joao Bat.Furquim, 180, Rodeio, São Bento Do Sapucaí, São Paulo",50,1000.0,-22.68889,-45.73083,30,0
+3740915,11011,07722233000147,Novo Cravo Mini Mercado Eireli,Nenhum,São Paulo,"Rua Araritaguaba, 35, Vila Maria Alta, São Paulo, São Paulo",5,100.0,-23.5139012,-46.583372,30,0
+3740916,189329,53345252000119,Nelson Kioshi Nakada-Coml. Agricola Ltda,Sacolão Saúde,São Bernardo do Campo,"Rua Tapajós, 80, Centro, São Bernardo Do Campo, São Paulo",14,260.0,-23.6991131,-46.5502833,30,0
+3740917,189346,05327676000108,Sacolão Santa Cecilia Ltda,Sacolão Saúde,São Paulo,"Rua Das Palmeiras, 278, Vila Buarque, São Paulo, São Paulo",8,150.0,-23.5475,-46.63611,30,0
+3740919,189328,07976585000129,R.D.Furukawa Comercio De Hortifruti Ltda,Sacolão Saúde,São Paulo,"Rua Humberto I, 545, Vila Mariana, São Paulo, São Paulo",4,70.0,-23.5848574,-46.6421213,30,0
+3740921,190649,21700212000151,Sacolão Granja Viana Ltda,Sacolão Saúde,Cotia,"Rua Ushima Kira, S/N, Granja Viana, Cotia, São Paulo",8,140.0,-23.5920398,-46.8348449,30,0
+3740922,195881,28859624000188,Sacolão Vila Das Merces Ltda,Sacolão Saúde,São Paulo,"Praça Andre Nunes, 80, Vila Das Merces, São Paulo, São Paulo",18,340.0,-23.6307077,-46.6045437,30,0
+3740923,4916,44221554000194,Supermercado Fenicia Ltda,Nenhum,Santo André,"Rua Fenicia, 144, Parque Novo Oratório, Santo André, São Paulo",20,400.0,-23.6292226,-46.4987878,30,0
+3740924,212251,53313152000100,Bar E Restaurante Pedrozo & Ribeiro & Du,Nenhum,São Paulo,"Rua Barao De Ladario, 312, Bras, São Paulo, São Paulo",5,100.0,-23.5393113,-46.6190086,30,0
+3740925,197971,12949960000181,Hdn Com.Produtos Alimenticios Ltda,Sacolão Saúde,Taboão da Serra,"Avenida Sao Paulo, 247, Cidade Intercap, Taboão Da Serra, São Paulo",12,230.0,-23.6056227,-46.779056,30,0
+3740926,214602,43041337000150,Sacolao Vila Carrao Ltda,Nenhum,São Paulo,"Avenida Conselheiro Carrao, 1306, Vila Carrao, São Paulo, São Paulo",15,270.0,-23.5430969,-46.5476141,30,0
+3740927,14108,08413116000164,Patricia De Aguiar Silva Ltda Me,Nenhum,Guarulhos,"Avenida Manoel Isidoro Martins, 1084, Cidade Martins, Guarulhos, São Paulo",5,100.0,-23.43149,-46.51214,30,0
+3740928,210671,52059415000134,Casa De Carnes Torelli Ltda,Nenhum,São Paulo,"Avenida Onze De Junho, 1049, Vila Clementino, São Paulo, São Paulo",4,80.0,-23.5475,-46.63611,30,0
+3740929,9093,50661040000152,Aeroporto Pizzas Ltda,Nenhum,São Paulo,"Rua Padre Leonardo, 419, Aeroporto, São Paulo, São Paulo",15,300.0,-23.5475,-46.63611,30,0
+3740930,205754,44747898000131,Mg Supermercado Ltda,Nenhum,Embu-Guaçu,"Rua Emilia Pires, 365, Centro, Embu-Guaçu, São Paulo",50,1000.0,-23.8294539,-46.8169557,30,0
+3740932,205552,46760048000107,Supermercado Bruhvik Ltda,Nenhum,São Paulo,"Rua Benedito Egidio Barbosa, 176, Brasilandia, São Paulo, São Paulo",12,240.0,-23.4598445,-46.6986945,30,0
+3740933,207579,19714269000249,Mercantil Red Ltda,Red,São Paulo,"Avenida Itaberaba, 4418, Itaberaba, São Paulo, São Paulo",7,140.0,-23.474322,-46.668385,30,0
+3740934,207583,19714269000672,Mercantil Red Ltda,Red,Atibaia,"Avenida Eulina, 145, Jardim Primavera, São Paulo, São Paulo",4,75.0,-23.1825,-46.5775,30,0
+3740935,207584,19714269000915,Mercantil Red Ltda,Red,São Paulo,"Avenida Nova Cantareira, 3381, Tucuruvi, São Paulo, São Paulo",4,75.0,-23.47093,-46.617617,30,0
+3740937,198144,32757394000113,Jbm Supermercado Ltda,Nenhum,Sorocaba,"Rua Luzia Eufrozina Soares Valverde, 18, Jardim Novo Mundo, Sorocaba, São Paulo",5,100.0,-23.50167,-47.45806,30,0
+3740938,13868,67709535000107,Sakae Ueta Avicola,Nenhum,São Paulo,"Avenida Conselheiro Carrao, 3.264, V Carrão, São Paulo, São Paulo",19,347.0,-23.5392496,-46.5535832,30,0
+3740939,10162,07013199000131,Sup. E Restaurante Jva Eireli,Monte Serrat,Itupeva,"Praça São Paulo, 97, Centro, Itupeva, São Paulo",12,240.0,-23.1521891,-47.0570231,30,0
+3740940,12905,07013199000212,Sup. E Restaurante Jva Eirelli,Monte Serrat,Itupeva,"Rua João Sabio Gonçalves, 132, Jardim Ana Luiza, Itupeva, São Paulo",24,475.0,-23.1582683,-47.0422031,30,0
+3740942,202120,12528574000116,Antonio Goes Da Silva Junior 30016803850,Nenhum,Louveira,"Rua Silvio Benvegnu, 104, Santo Anonio, Louveira, São Paulo",5,100.0,-23.0890985,-46.975001,30,0
+3740943,201725,07013199000565,Supermercado E Restaurante Jva Eireli,Monte Serrat,Jundiaí,"Avenida Francisco Nobre, 100, Medeiros, Jundiaí, São Paulo",16,320.0,-23.187837,-46.9845899,30,0
+3740945,191768,10258603000222,H.M.F. Supermercados Ltda,Nenhum,São Paulo,"Rua Pedro Escobar, 619, Grajau, São Paulo, São Paulo",50,1000.0,-23.752215,-46.6665395,30,0
+3740946,207602,17865334000120,Ricardo Gomes Santos Mercearia,Nenhum,Peruíbe,"Rua Esmael Francisco Dos Santos, 190, Caraguava, Peruíbe, São Paulo",7,140.0,-24.32,-46.99833,30,0
+3740947,207609,25287847000120,Giuvanina Rebouças Da Silva Minimercado,Nenhum,Peruíbe,"Avenida Dr Tancredo De Almeida Neves, 2397, Cid.Balnearia Nova Peruibe, Peruíbe, São Paulo",10,200.0,-24.32,-46.99833,30,0
+3740949,152260,09563342000194,Kalimera Com.De Hortifruti Ltda,Monte Serrat,Jundiaí,"Rua Do Retiro, 2400, Vila Das Hortencias, Jundiaí, São Paulo",7,140.0,-23.1796942,-46.9056674,30,0
+3740951,6188,01202760000144,Comercial Jericoacoara Ltda,Nenhum,São Paulo,"Rua Paim, 201, Bela Vista, São Paulo, São Paulo",6,120.0,-23.5544616,-46.6500849,30,0
+3740952,200830,09563342000356,Kalimera Com. De Hortifruti Ltda,Monte Serrat,Jundiaí,"Avenida Antonio Pincinato, 21, Recanto Quarto Centenario, Jundiaí, São Paulo",8,160.0,-23.1838238,-46.9281076,30,0
+3740953,211951,41039073000174,Mercado Campinas Ltda,Nenhum,Peruíbe,"Avenida Peruibe, 31, Balneario Sao Joao Batista 2, Peruíbe, São Paulo",10,200.0,-24.2999496,-46.9892214,30,0
+3740955,208036,44634928000101,J.R.M Comercio De Produtos Alimenticios ,Nenhum,Indaiatuba,"Rua Remulo Zoppi, 505, Vila Georgina I, Indaiatuba, São Paulo",10,200.0,-23.0785522,-47.2069032,30,0
+3740956,208037,44634538000123,J.R.M Super Comercial De Alimentos Ltda,Nenhum,Indaiatuba,"Rua Theodoro Mantoanelli, 52, Itaici, Indaiatuba, São Paulo",7,140.0,-23.1070653,-47.182188,30,0
+3740957,208035,44635150000147,Jrm Comercial De Alimentos Ltda,Nenhum,Indaiatuba,"Rua Indaias, Dos, 918, Santa Cruz, Indaiatuba, São Paulo",7,140.0,-23.08842,-47.2119,30,0
+3740958,208033,44627773000178,Jrm Produtos Alimenticios Ltda,Nenhum,Cabreúva,"Avenida Vereador Jose Donato, 1193, Vilarejo, Cabreúva, São Paulo",7,140.0,-23.2440302,-47.0573721,30,0
+3740959,208034,44627910000174,Comercial De Produtos Jrm Ltda,Nenhum,Salto,"Avenida Casper Libero, 954, Jardim Santa Cruz, Salto, São Paulo",7,140.0,-23.20083,-47.28694,30,0
+3740960,208031,37111008000135,Miranda & Miranda Supermercado Ltda,Nenhum,Indaiatuba,"Rua Carlos Sthal, 18, Residencial Monte Verde, Indaiatuba, São Paulo",7,140.0,-23.1047535,-47.2338758,30,0
+3740961,195459,18372024000137,Casa De Carnes Charlotte Ltda,Maria Cida,Itapecerica da Serra,"Rua Nicola Felice, 36, Parque Paraiso, Itapecerica Da Serra, São Paulo",1,20.0,-23.71694,-46.84917,30,0
+3740963,204045,39895236000179,Rcl Merc. Açougue E Padaria Ltda,Rede Don,Carapicuíba,"Estrada Fazendinha, 281, Pousada Dos Bandeirantes, Carapicuíba, São Paulo",15,300.0,-23.52272,-46.835,30,0
+3740964,187689,14788195000190,Jotace Comercio De Salgados Ltda - Me,Nenhum,Louveira,"Rua Ercilia Martins Cruz, 207, Vila Nova Louveira, Louveira, São Paulo",5,100.0,-23.08639,-46.95056,30,0
+3740965,354,50602663000154,Comercio De Carnes Catarino Ltda Me,Nenhum,São Paulo,"Rua Benedita Dornellas Claro, 151, Vila Maria Alta, São Paulo, São Paulo",7,140.0,-23.5475,-46.63611,30,0
+3740966,212157,17204218000160,Center Carnes Jardim Sapopemba Ltda,Nenhum,São Paulo,"Rua Eugenio Bosser, 18, Jardim Sapopemba, São Paulo, São Paulo",2,40.0,-23.59556,-46.52472,30,0
+3740967,206254,47335097000157,Superboi Comercio De Carnes Ltda,Rede Estoril,São Paulo,"Rua Cardon, 831, Vila Progresso (Zona Leste), São Paulo, São Paulo",8,160.0,-23.5475,-46.63611,30,0
+3740968,184925,00171807000197,Sacolão Assunção Ltda,Arcos,São Bernardo do Campo,"Rua Baltazar Borges (Jd Lavínia), 15, Assunção, São Bernardo Do Campo, São Paulo",9,180.0,-23.69389,-46.565,30,0
+3740971,210933,47335097000823,Superboi Comercio De Carnes Ltda,Rede Estoril,Guarulhos,"Rua Louveira, 541, Jardim Marilena, Guarulhos, São Paulo",6,120.0,-23.423113,-46.4937482,30,0
+3740972,190334,22998658000177,Mme Ii Comercio De Alimentos Ltda,Nenhum,São Paulo,"Rua Das Rosas, 495, Mirandópolis, São Paulo, São Paulo",5,100.0,-23.6061623,-46.6415406,30,0
+3740973,210852,52098579000170,Acougue Quilo E Grama Ltda,Nenhum,Diadema,"Avenida Presidente Juscelino, 333, Piraporinha, Diadema, São Paulo",5,100.0,-23.6830194,-46.5922176,30,0
+3740975,8991,43559079000602,Supermercados Bergamini Ltda.,Bergamini,São Paulo,"Avenida Luís Stamatis, 431, Jaçanã, São Paulo, São Paulo",23,506.0,-23.4669058,-46.5811562,30,0
+3740976,13462,50629682000174,Casa De Carnes Tres Americas Ltda,Nenhum,São Paulo,"Rua Otavio Tarquinio De Souza, 268, Aeroporto, São Paulo, São Paulo",5,100.0,-23.5475,-46.63611,30,0
+3740977,205055,13617029000169,F . L . De Souza Acougue,Nenhum,São Paulo,"Rua Arbela, 1004, Cidade Antonio Estevao De Carv, São Paulo, São Paulo",12,240.0,-23.5258595,-46.4698864,30,0
+3740978,8991,43559079000602,Supermercados Bergamini Ltda.,Bergamini,São Paulo,"Avenida Luís Stamatis, 431, Jaçanã, São Paulo, São Paulo",107,2000.0,-23.4669058,-46.5811562,30,0
+3740979,10386,60186376000245,Mercadinho Piratininga Ltda,Piratininga,Paraibuna,"Avenida São Jose Dos Campos, 262, Centro, Paraibuna, São Paulo",28,540.0,-23.3831094,-45.6650429,30,0
+3740980,210770,50273744000158,50.273.744 Jardiel Da Silva Barbosa,Nenhum,Guarulhos,"Rua Nossa Senhora Aparecida, 31, Vila Das Malvinas, Guarulhos, São Paulo",9,180.0,-23.4595654,-46.5081069,30,0
+3740981,1602,57263246000173,Com. Prods. Aliment. Piratininga Ltda.,Piratininga,São José dos Campos,"Avenida Cassiopeia, 591, Jardim Satelite, São José Dos Campos, São Paulo",21,390.0,-23.2298571,-45.8861203,30,0
+3740982,186842,14148916000289,Dibon Supermercado Ltda Me,Nenhum,São Paulo,"Avenida Lins De Vasconcelos, 733, Cambuci, São Paulo, São Paulo",6,120.0,-23.5734968,-46.6229475,30,0
+3740983,184166,14644599000100,Cristiane Aparecida Silva Matos,Nenhum,Osasco,"Rua Joaquim Severino Alves, 48, Vila Menk, Osasco, São Paulo",7,140.0,-23.4989217,-46.7711929,30,0
+3740984,214662,50877105000100,Goya Supermercado Ltda,Nenhum,São Paulo,"Rua Olavo Egidio, 534, Santana, São Paulo, São Paulo",10,200.0,-23.5002484,-46.6204722,30,0
+3740985,200568,51033629000179,Proença Com. De Hortifruti Ltda,Nenhum,Campinas,"Avenida Ayrton Senna Da Silva, 450, Vila Jaquitibas, Campinas, São Paulo",6,120.0,-22.90556,-47.06083,30,0
+3740986,214899,58425766000106,Supermercado Mini Sol Ltda,Nenhum,São Paulo,"Avenida Mazzei, 1209, Vila Mazzei, São Paulo, São Paulo",16,320.0,-23.4719455,-46.5994511,30,0
+3740987,167082,08571723000152,Mercadinho Piratininga De Generos Alimen,Piratininga,Caraguatatuba,"Avenida José Herculano, 7040, Porto Novo, Caraguatatuba, São Paulo",14,275.0,-23.6946544,-45.4422191,30,0
+3740988,194883,02196415000108,Mulinário & Oliveira Ltda - Me,Nenhum,São Vicente,"Rua Arnaldo Rodrigues, 245, Vila Mateo Bei, São Vicente, São Paulo",5,100.0,-23.9659702,-46.4115062,30,0
+3740989,213970,55806741000156,Supermercado Panda 2 Ltda,Nenhum,Carapicuíba,"Avenida Comendador Dante Carraro, 576, Cidade Ariston Estela Azevedo, Carapicuíba, São Paulo",4,80.0,-23.5340401,-46.8534601,30,0
+3740991,940,60186376000164,Mercadinho Piratininga Ltda,Piratininga,São José dos Campos,"Rua Itororó, 74, Jd. Paulista, São José Dos Campos, São Paulo",19,340.0,-23.17944,-45.88694,30,0
+3740992,215696,76430438014121,Irmãos Muffato S.A,Rede Muffato,Campinas,"Avenida Ricardo Bassoli Cezare, 1567, Jardim Das Bandeiras, Campinas, São Paulo",34,675.0,-22.9495493,-47.0928675,30,0
+3740993,207755,11136065000185,Maria Das Dores Silva Restaurante,Nenhum,São José dos Campos,"Rua Sete Lagos, 190, Chacaras Reunidas, São José Dos Campos, São Paulo",3,60.0,-23.2541491,-45.9313672,30,0
+3740994,202030,27048928000100,Bella Fit Food Eireli,Nenhum,SAO PAULO,"Rua Lucila Da Rocha, 30, Casa Verde Media, São Paulo, São Paulo",20,400.0,-23.50342,-46.664454,30,0
+3740995,8301,61192795000252,Dias Pastorinho S/A Comércio E Indústria,Dias Pastorinho,São Paulo,"Avenida Raimundo Pereira De Magalhaes, 1600, Jd.Iris, São Paulo, São Paulo",8,150.0,-23.5059366,-46.7161322,30,0
+3740996,215698,76430438013230,Irmãos Muffato S.A,Rede Muffato,Votorantim,"Rodovia Raposo Tavares, S/N, Centro, Votorantim, São Paulo",21,420.0,-23.54667,-47.43778,30,0
+3740997,178046,14065614000166,Mercado Tripoly Eireli,Nenhum,Caraguatatuba,"Avenida Pavão, 61, Recanto Do Paraiso, São Paulo, São Paulo",11,220.0,-23.6083178,-45.3511302,30,0
+3740998,215697,76430438012773,Irmãos Muffato S.A,Rede Muffato,Sorocaba,"Rua Joao Ribeiro De Barros, 1411, Vila Odim Antao, Sorocaba, São Paulo",24,475.0,-23.4707582,-47.4550598,30,0
+3740999,215418,53449951000109,Managon Acougue Ltda,Nenhum,Barueri,"Rua Claudio Manoel Da Costa, 43, Parque Imperial, Barueri, São Paulo",5,100.0,-23.4831217,-46.8053765,30,0
+3741001,39,61192795001909,Dias Pastorinho S/A Comércio E Industria,Dias Pastorinho,São Paulo,"Rua Conselheiro Moreira De Barros, 240, Santana, São Paulo, São Paulo",7,135.0,-23.4965576,-46.6280895,30,0
+3741002,9079,68927854000151,Carnes Derivados Gardenal Figueiredo Ltd,Nenhum,Sorocaba,"Rua Ubirajara, 274, Vila Gabriel, Sorocaba, São Paulo",6,120.0,-23.50167,-47.45806,30,0
+3741004,102,44101848000182,Açougue Reis Ltda - Me,Nenhum,Votuporanga,"Praça Das Professoras, 07, Cidade Ae Carvalho, São Paulo, São Paulo",8,160.0,-20.48333,-50.01667,30,0
+3741007,205557,26155319000260,Supermercado Confianca Comercio De Alime,Nenhum,São Paulo,"Avenida General Penha Brasil, 1304, Vila Nova Cachoeirinha, São Paulo, São Paulo",10,200.0,-23.48442,-46.6586,30,0
+3741008,3262,03374306000104,Dany Comercial De Alimentos Ltda,Nenhum,São Paulo,"Praça 14 Bis, 26, Bela Vista, São Paulo, São Paulo",7,135.0,-23.5554462,-46.650081,30,0
+3741009,13828,07495813000149,M.P.H Mercado  Ltda - Me,Nenhum,Cesário Lange,"Avenida São Paulo, 88, Chácara Gaivota, São Paulo, São Paulo",19,380.0,-23.2195694,-47.9448753,30,0
+3741012,180208,11403835000109,Jefferson Alves Barros - Me,Nenhum,Itaí,"Avenida Dos Latinos, 1264, Jd. Santa Terezinha, São Paulo, São Paulo",5,95.0,-23.36667,-49.16667,30,0
+3741013,194036,23120356000164,Supermercado Familia Lima Eireli,Nenhum,Ribeirão Pires,"Avenida Miro Atilio Peduzzi (4 A Divisao), 412, Tanque Caio, Ribeirão Pires, São Paulo",23,460.0,-23.6498005,-46.3663212,30,0
+3741014,3206,00607442000109,Adf Souza Ltda,Rede Litoral,Santos,"Avenida Afonso Pena, 336, Macuco, Santos, São Paulo",36,720.0,-23.9593759,-46.3191609,30,0
+3741015,204324,25009973000112,Dacosta Comercio Alimentos E Rotisserie,Nenhum,Mairiporã,"Estrada Mario Freitas Da Silva -Mato Dentro S/N, 5, Mato Dentro, Mairiporã, São Paulo",10,200.0,-23.2885142,-46.6311519,30,0
+3741022,212151,05139713000154,Emilio Jose Dos Passos,Nenhum,Caraguatatuba,"Rua Passaro Preto, 759, Vila Paulistania, São Paulo, São Paulo",6,120.0,-23.6422001,-45.4375369,30,0
+3741028,209975,51466667000115,Comercio De Carnes E Alimentos Zona Sul ,Nenhum,São Paulo,"Rua Delfino Facchina, 628, Americanopolis, São Paulo, São Paulo",6,120.0,-23.5475,-46.63611,30,0
+3741029,204722,39382652000173,Pathagonia Comercio De Alimentos E Servi,Nenhum,Registro,"Rua Florianopolis, 247, Vila Ribeiropolis, Registro, São Paulo",60,1200.0,-24.4989854,-47.8452091,30,0
+3741032,4423,04144076000141,Edimilson Franciso Da Rocha - Me,Nenhum,São Paulo,"Estrada Canal Da Cocaia, 2832, Parque Residencial Cocaia, São Paulo, São Paulo",15,300.0,-23.738973,-46.666526,30,0
+3741033,213909,36519978000101,Roseli K. F. Pelincel,Nenhum,Suzano,"Rua Mussi Jorge Antonio, 314, Jardim Amazonas, Suzano, São Paulo",15,300.0,-23.6483044,-46.3141634,30,0
+3741034,213914,36519978000292,Roseli K. F. Pelincel,Nenhum,Suzano,"Rua Sebastiao Moreira, 320, Parque Palmeiras, Suzano, São Paulo",6,120.0,-23.642015,-46.3254909,30,0
+3741041,13880,10818124000132,K. Carnes Ltda,Kleber Carnes,São Paulo,"Avenida Engenheiro Armando De Arruda Pereira, 4.684, Vila Do Encontro, São Paulo, São Paulo",30,600.0,-23.6531957,-46.6369427,30,0
+3741045,187880,20631987000150,Mercadinho Do Chitão Eireli  Me,Nenhum,São Paulo,"Avenida Antonelo Da Messina, 1213, Sítio Do Piqueri, São Paulo, São Paulo",10,200.0,-23.4555826,-46.5899705,30,0
+3741048,802,01444210000131,Comercio De Alimentos Alves E Farias Ltd,Rede Parana,GUARULHOS,"Rua Osvaldo Ramos, 100, Parque Mikail, Guarulhos, São Paulo",72,1405.0,-23.46278,-46.53333,30,0
+3741049,211011,21220235000169,Supermercado Padaria E Rotisseria Pereir,Nenhum,Osasco,"Rua Porto Alegre, 540, Rochdale, Osasco, São Paulo",11,220.0,-23.5119988,-46.779681,30,0

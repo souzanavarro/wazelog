@@ -1,0 +1,35 @@
+# /workspaces/WazeLog/routing/osrm_local/docker-compose.yml
+
+services:
+  osrm-backend-local: # Renomeado para local
+    image: osrm/osrm-backend:latest
+    container_name: osrm_backend_local # Renomeado para local
+    restart: unless-stopped
+    ports:
+      - "5000:5000" # Porta para o servidor local
+    volumes:
+      - ./data:/data
+    # Comando para usar o arquivo .osrm da sua região principal (ex: sudeste)
+    command: osrm-routed --algorithm mld /data/sudeste-latest.osrm # Mantenha o arquivo da sua região principal
+
+  osrm-preprocess-local: # Renomeado para local
+    image: osrm/osrm-backend:latest
+    container_name: osrm_preprocess_local # Renomeado para local
+    volumes:
+      - ./data:/data
+    # Sequência de comandos para processar o arquivo .osm.pbf da sua região principal
+    command: >
+      bash -c "
+      if [ ! -f /data/sudeste-latest.osm.pbf ]; then # Mantenha o arquivo da sua região principal
+          echo \'--- ERRO: Arquivo /data/sudeste-latest.osm.pbf não encontrado. Faça o download do Geofabrik e coloque na pasta ./data ---\'
+          exit 1
+      fi;
+      echo \'--- Iniciando pré-processamento OSRM para Local ---\' &&
+      osrm-extract -p /opt/car.lua /data/sudeste-latest.osm.pbf && # Mantenha o arquivo da sua região principal
+      echo \'--- Extração concluída (Local) ---\' &&
+      osrm-partition /data/sudeste-latest.osrm && # Mantenha o arquivo da sua região principal
+      echo \'--- Particionamento concluído (Local) ---\' &&
+      osrm-customize /data/sudeste-latest.osrm && # Mantenha o arquivo da sua região principal
+      echo \'--- Customização concluída (Local) ---\' &&
+      echo \'--- Pré-processamento OSRM Local concluído com sucesso! ---\'
+      "
