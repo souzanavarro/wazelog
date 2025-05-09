@@ -100,6 +100,16 @@ Depois, inicie normalmente o backend FastAPI e o frontend Streamlit. O sistema d
 
 > Dica: Você pode adicionar esse comando ao início do seu script de inicialização ou ao arquivo `.bashrc` para não precisar repetir sempre.
 
+## 📊 Novas Funcionalidades
+- Visualizações avançadas com gráficos (usando `matplotlib` e `seaborn`).
+- Melhorias no layout dos KPIs com CSS customizado.
+
+## 🛠️ Dependências Adicionais
+Certifique-se de instalar as novas dependências:
+```bash
+pip install matplotlib seaborn
+```
+
 ## 🗂️ Estrutura de Pastas
 - `app/` - Código principal do Streamlit e módulos auxiliares
 - `database/` - Banco SQLite local
